@@ -3,7 +3,7 @@ import json
 with open('enseignants.json') as f:
     enseignants = [e["nom"].title() for e in json.load(f)]
 
-with open('articlesCoAuteurs_HAL.json') as f:
+with open('articlesCoAuteurs_HAL.json') as f: # changer le nom du fichier par celui final
     articles = json.load(f)
 
 article_count = {}
