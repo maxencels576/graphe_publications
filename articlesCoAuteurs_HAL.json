@@ -1,0 +1,5848 @@
+[
+    {
+        "article": "Supporting Distributed and Adaptive Workflow Process Systems",
+        "authors": [
+            "Ilham Alloui",
+            "Flavio Oquendo"
+        ]
+    },
+    {
+        "article": "Wise Objects for IoT (WIoT): Software Framework and Experimentation",
+        "authors": [
+            "Ilham Alloui",
+            "Eric Benoit",
+            "Stephane Perrin",
+            "Flavien Vernier"
+        ]
+    },
+    {
+        "article": "Process Modelling Languages",
+        "authors": [
+            "Ilham Alloui",
+            "Promoter 2 European Working Group"
+        ]
+    },
+    {
+        "article": "Systèmes logiciels de fusion d'informations adaptatifs",
+        "authors": [
+            "Hervé Verjus",
+            "Sorana Cimpan",
+            "Ilham Alloui",
+            "Frédéric Pourraz",
+            "Patrice Moreaux"
+        ]
+    },
+    {
+        "article": "Towards Software Architecture Physiology: Identifying Vital Component",
+        "authors": [
+            "Ilham Alloui",
+            "Sorana Cimpan",
+            "Hervé Verjus"
+        ]
+    },
+    {
+        "article": "Dynamic architecture based evolution of enterprise information systems",
+        "authors": [
+            "Sorana Cimpan",
+            "Hervé Verjus",
+            "Ilham Alloui"
+        ]
+    },
+    {
+        "article": "Supporting Decentralised Software-intensive Processes using Zeta Component-based Architecture Description Language",
+        "authors": [
+            "Ilham Alloui",
+            "Flavio Oquendo"
+        ]
+    },
+    {
+        "article": "A Graph Matching Algorithm to Extend Software Wise Systems with Human Semantic",
+        "authors": [
+            "Abdelhafid Dahhani",
+            "Ilham Alloui",
+            "Sébastien Monnet",
+            "Flavien Vernier"
+        ]
+    },
+    {
+        "article": "An Architecture-Centric Approach for Information System Architecture Modeling, Enactement and Evolution",
+        "authors": [
+            "Hervé́ Verjus",
+            "Sorana Cimpan",
+            "Ilham Alloui"
+        ]
+    },
+    {
+        "article": "Towards A Process-Oriented Software Architecture Reconstruction Taxonomy",
+        "authors": [
+            "Damien Pollet",
+            "Stéphane Ducasse",
+            "Loic Poyet",
+            "Sorana Cimpan",
+            "Hervé Verjus",
+            "et al."
+        ]
+    },
+    {
+        "article": "Wise Objects for Calm Technology",
+        "authors": [
+            "Ilham Alloui",
+            "David Esale",
+            "Flavien Vernier"
+        ]
+    },
+    {
+        "article": "Gestion des architectures évolutives dans ArchWare",
+        "authors": [
+            "Hervé Verjus",
+            "Sorana Cimpan",
+            "Ilham Alloui",
+            "Flavio Oquendo"
+        ]
+    },
+    {
+        "article": "E-alliance, rapport de 1ère année programme thématique région rhône alpes",
+        "authors": [
+            "Olivier Boissier",
+            "Jean-Marc Andreoli",
+            "Ilham Alloui"
+        ]
+    },
+    {
+        "article": "E-alliance, rapport de 2ème année programme thématique région rhône alpes",
+        "authors": [
+            "Olivier Boissier",
+            "Jean-Marc Andreoli",
+            "Ilham Alloui"
+        ]
+    },
+    {
+        "article": "Ontology Alignment: First Step towards Voice Control for Smart-Home Assistive Scenarios",
+        "authors": [
+            "Abdelhafid Dahhani",
+            "Hubert Kenfack Ngankam",
+            "Sylvain Giroux",
+            "Ilham Alloui",
+            "Sébastien Monnet",
+            "et al."
+        ]
+    },
+    {
+        "article": "E-alliance, rapport de 3ème année programme thématique région rhône alpes",
+        "authors": [
+            "Olivier Boissier",
+            "Jean-Marc Andreoli",
+            "Ilham Alloui"
+        ]
+    },
+    {
+        "article": "Approche centrée architecture pour l'évolution dynamique de systèmes",
+        "authors": [
+            "Sorana Cimpan",
+            "Hervé Verjus",
+            "Ilham Alloui"
+        ]
+    },
+    {
+        "article": "A new software architecture for the Wise Object Framework: Multidimensional Separation of Concerns",
+        "authors": [
+            "Sylvain Lejamble",
+            "Ilham Alloui",
+            "Sébastien Monnet",
+            "Flavien Vernier"
+        ]
+    },
+    {
+        "article": "Alliance: A Software Framework for Software-Intensive Process Modeling, Enactment and Fuzzy Control",
+        "authors": [
+            "Ilham Alloui",
+            "Sorana Cimpan",
+            "Herve Verjus",
+            "Flavio Oquendo"
+        ]
+    },
+    {
+        "article": "Learning suitable data representation for credit card fraud detection algorithms",
+        "authors": [
+            "Sylvain Lejamble",
+            "Ilham Alloui",
+            "Sébastien Monnet",
+            "Flavien Vernier"
+        ]
+    },
+    {
+        "article": "WIoT: Interconnection between Wise Objects and IoT",
+        "authors": [
+            "Ilham Alloui",
+            "Eric Benoit",
+            "Stéphane Perrin",
+            "Flavien Vernier"
+        ]
+    },
+    {
+        "article": "Towards a Semantic Model for Wise Systems - A Graph Matching Algorithm",
+        "authors": [
+            "Abdelhafid Dahhani",
+            "Ilham Alloui",
+            "Sébastien Monnet",
+            "Flavien Vernier"
+        ]
+    },
+    {
+        "article": "A Wise Object Framework for Distributed Intelligent Adaptive Systems",
+        "authors": [
+            "Ilham Alloui",
+            "Flavien Vernier"
+        ]
+    },
+    {
+        "article": "E-Alliance: A Negotiation Infrastructure for Virtual Alliances",
+        "authors": [
+            "Stefania Castellani",
+            "Jean-Marc Andreoli",
+            "Mihnea Bratu",
+            "Olivier Boissier",
+            "Ilham Alloui",
+            "et al."
+        ]
+    },
+    {
+        "article": "e-Alliance: a software infrastructure for concurrent inter-organisational alliances",
+        "authors": [
+            "Ilham Alloui",
+            "Jean-Marc Andreoli",
+            "Olivier Boissier",
+            "Mihnea Bratu",
+            "Stefania Castellani",
+            "et al."
+        ]
+    },
+    {
+        "article": "A Fuzzy Sets based Mechanism allowing the Tuning of a Software Intensive Process Control System via Multiple Simulations ",
+        "authors": [
+            "Ilham Alloui",
+            "Sorana Cimpan",
+            "Flavio Oquendo",
+            "Herve Verjus"
+        ]
+    },
+    {
+        "article": "A Graph Matching Algorithm to extend Wise Systems with Semantic",
+        "authors": [
+            "Abdelhafid Dahhani",
+            "Ilham Alloui",
+            "Sébastien Monnet",
+            "Flavien Vernier"
+        ]
+    },
+    {
+        "article": "Alliance : An Agent-Based CASE Environment for Enterprise Process Modelling, Enactment and  Quantitative Control",
+        "authors": [
+            "Ilham Alloui",
+            "Sorana Cimpan",
+            "Flavio Oquendo",
+            "Herve Verjus"
+        ]
+    },
+    {
+        "article": "Alliance: An Agent-Based CASE Environment for Enterprise Process Modelling, Enactment and Quantitative Control",
+        "authors": [
+            "Ilham Alloui",
+            "Sorana Cimpan",
+            "Flavio Oquendo",
+            "Hervé́ Verjus"
+        ]
+    },
+    {
+        "article": "Automatic Package Coupling and Cycle Minimization",
+        "authors": [
+            "Hani Abdeen",
+            "Stéphane Ducasse",
+            "Houari Sahraoui",
+            "Ilham Alloui"
+        ]
+    },
+    {
+        "article": "Energy Efficient Partitioning and Scheduling Approach for Scientific Workflows in the Cloud",
+        "authors": [
+            "Khadija Bousalmi",
+            "Zaki Brahmi",
+            "Mohamed Mohsen Gammoudi"
+        ]
+    },
+    {
+        "article": "QoS-Aware Scheduling of Workflows in Cloud Computing Environments",
+        "authors": [
+            "Khadija Bousalmi",
+            "Zaki Brahmi",
+            "Mohamed Mohsen Gammoudi"
+        ]
+    },
+    {
+        "article": "Cloud Services Orchestration: A Comparative Study of Existing Approaches",
+        "authors": [
+            "Khadija Bousalmi",
+            "Zaki Brahmi",
+            "Mohamed Mohsen Gammoudi"
+        ]
+    },
+    {
+        "article": "Big Data Tools: Interoperability Study and Performance Testing",
+        "authors": [
+            "Asma Dhaouadi",
+            "William Paccoud",
+            "Khadija Bousselmi",
+            "Sébastien Monnet",
+            "Mohamed Mohsen Gammoudi",
+            "et al."
+        ]
+    },
+    {
+        "article": "Combining MLP and Feature Engineering to Predict Avalanche Severity",
+        "authors": [
+            "Mounira Sassi",
+            "Hanen Idoudi",
+            "Khadija Bousselmi"
+        ]
+    },
+    {
+        "article": "Predictive Systems for Snow Avalanche Forecasting",
+        "authors": [
+            "Mounira Sassi",
+            "Hanen Idoudi",
+            "Khadija Bousselmi"
+        ]
+    },
+    {
+        "article": "DR-SWDF: A Dynamically Reconfigurable Framework for Scientific Workflows Deployment in the Cloud",
+        "authors": [
+            "Khadija Bousalmi",
+            "Zaki Brahmi",
+            "Mohamed Mohsen Gammoudi"
+        ]
+    },
+    {
+        "article": "Deep Reinforcement Learning-based Load Balancer using Kubernetes",
+        "authors": [
+            "Moenes Ben Soussia",
+            "Khadija Bousselmi",
+            "Hanen Idoudi"
+        ]
+    },
+    {
+        "article": "A Multi-Layer Modeling for the Generation of New Architectures for Big Data Warehousing",
+        "authors": [
+            "Asma Dhaouadi",
+            "Khadija Bousselmi",
+            "Sébastien Monnet",
+            "Mohammed Gammoudi",
+            "Slimane Hammoudi"
+        ]
+    },
+    {
+        "article": "A Machine Learning Based Decision Support Framework For Big Data Pipeline Modeling And Design",
+        "authors": [
+            "Asma Dhaouadi",
+            "Khadija Bousselmi",
+            "S Monnet",
+            "Mohamed Gammoudi",
+            "Slimane Hammoudi"
+        ]
+    },
+    {
+        "article": "Exploring the Role of Machine Learning in Diagnosing and Treating Speech Disorders: A Systematic Literature Review",
+        "authors": [
+            "Zaki Brahmi",
+            "Mohammad Mahyoob",
+            "Mohammed Al-Sarem",
+            "Jeehaan Algaraady",
+            "Khadija Bousselmi",
+            "et al."
+        ]
+    },
+    {
+        "article": "Data Warehousing Process Modeling from Classical Approaches to New Trends: Main Features and Comparisons",
+        "authors": [
+            "Asma Dhaouadi",
+            "Khadija Bousselmi",
+            "Mohamed Mohsen Gammoudi",
+            "Sébastien Monnet",
+            "Slimane Hammoudi"
+        ]
+    },
+    {
+        "article": "Bousselmi, S",
+        "authors": [
+            "K"
+        ]
+    },
+    {
+        "article": "Altruistic Collaborative Learning",
+        "authors": [
+            "Abdourrahmane Mahamane Atto"
+        ]
+    },
+    {
+        "article": "Thresholds and Distances to Better Detect Wet Snow over Mountains with Sentinel-1 Image Time Series",
+        "authors": [
+            "Abdourrahmane Mahamane Atto"
+        ]
+    },
+    {
+        "article": "Neural Transfer Function Library Deriving From Parametric Probability Signatures",
+        "authors": [
+            "Abdourrahmane Mahamane Atto"
+        ]
+    },
+    {
+        "article": "Change Detection and Image Time Series Analysis 1",
+        "authors": [
+            "Abdourrahmane Mahamane Atto"
+        ]
+    },
+    {
+        "article": "Toward Generalized Artificial Intelligence by Assessment Aggregation With Applications to Standard and Extreme Classifications",
+        "authors": [
+            "Abdourrahmane Atto"
+        ]
+    },
+    {
+        "article": "Multiclass Multilabel Change of State Transfer Learning from Image Time Series",
+        "authors": [
+            "Abdourrahmane Mahamane Atto"
+        ]
+    },
+    {
+        "article": "Change Detection and Image Time Series Analysis 2",
+        "authors": [
+            "Abdourrahmane Mahamane Atto"
+        ]
+    },
+    {
+        "article": "Fractional Field Image Time Series Modeling and Application to Cyclone Tracking",
+        "authors": [
+            "Abdourrahmane Mahamane Atto"
+        ]
+    },
+    {
+        "article": "Ondelettes et Processus Stochastiques",
+        "authors": [
+            "Abdourrahmane Atto"
+        ]
+    },
+    {
+        "article": "Unsupervised Functional Information Clustering in Extreme Environments from Filter Banks and Relative Entropy",
+        "authors": [
+            "Abdourrahmane Mahamane Atto"
+        ]
+    },
+    {
+        "article": "Stochastic Hyperkernel Convolution Trains and h-Counting Processes",
+        "authors": [
+            "Abdourrahmane Mahamane Atto",
+            "Brani Vidakovic",
+            "Aluisio Pinheiro"
+        ]
+    },
+    {
+        "article": "Time-lapse optical flow regularization for geophysical complex phenomena monitoring",
+        "authors": [
+            "Héla Hadhri",
+            "Flavien Vernier",
+            "Abdourrahmane Atto",
+            "Emmanuel Trouvé"
+        ]
+    },
+    {
+        "article": "The Role of Parametrically Learnable Neural Transfer Functions in Artificial Intelligence",
+        "authors": [
+            "Abdourrahmane Mahamane Atto"
+        ]
+    },
+    {
+        "article": "Bisset, Emmanuel Trouvé",
+        "authors": [
+            "Abdourrahmane Mahamane Atto",
+            "Rosie R"
+        ]
+    },
+    {
+        "article": "Inverse Formulation of Temporal Closure and Proposed Solutions for Offset Tracking of Natural Scenes",
+        "authors": [
+            "Héla Hadhri",
+            "Emmanuel Trouvé",
+            "Abdourrahmane Atto",
+            "Flavien Vernier"
+        ]
+    },
+    {
+        "article": "Wavelet statistical analysis in multitemporal SAR images",
+        "authors": [
+            "Aluisio Pinheiro",
+            "Abdourrahmane Atto",
+            "Emmanuel Trouvé"
+        ]
+    },
+    {
+        "article": "SCHATTEN MATRIX NORM BASED POLARIMETRIC SAR DATA REGULARIZATION",
+        "authors": [
+            "Thu Trang Le",
+            "Abdourrahmane Atto",
+            "Emmanuel Trouvé"
+        ]
+    },
+    {
+        "article": "Transformation possibiliste de lois de probabilités elliptiques",
+        "authors": [
+            "Charles Lesniewska-Choquet",
+            "Gilles Mauris",
+            "Abdourrahmane Atto"
+        ]
+    },
+    {
+        "article": "Change analysis using multitemporal Sentinel-1 SAR images",
+        "authors": [
+            "Thu Trang Le",
+            "Abdourrahmane Atto",
+            "Emmanuel Trouvé"
+        ]
+    },
+    {
+        "article": "Best Basis for Joint Representation: the Median of Marginal Best Bases for Low Cost Information Exchanges in Distributed Signal Representation",
+        "authors": [
+            "Abdourrahmane Atto",
+            "Kavé Salamatian",
+            "Philippe Bolon"
+        ]
+    },
+    {
+        "article": "Multivariate statistical modeling for multi-temporal SAR change detection using wavelet transforms",
+        "authors": [
+            "Nizar Bouhlel",
+            "Guillaume Ginolhac",
+            "Eric Jolibois",
+            "Abdourrahmane Atto"
+        ]
+    },
+    {
+        "article": "ADAPTIVE MULTITEMPORAL FILTERING OF POLARIMETRIC SAR IMAGES",
+        "authors": [
+            "Thu Trang Le",
+            "Abdourrahmane Atto",
+            "Emmanuel Trouvé"
+        ]
+    },
+    {
+        "article": "Fractional Order Stochastic Image Integration Models and Deep Learning of Multi-Fractional Interactions",
+        "authors": [
+            "Abdourrahmane Atto"
+        ]
+    },
+    {
+        "article": "A Geometrical Wavelet Framework for the Time-Series Analysis of Full-Polarimetric Features",
+        "authors": [
+            "Davide Pirrone",
+            "Abdourrahmane Mahamane Atto",
+            "Emmanuel Trouve"
+        ]
+    },
+    {
+        "article": "Utilisation des séries temporelles d’images Sentinel-1 pour l’observation des glaciers des Alpes",
+        "authors": [
+            "Yajing Yan",
+            "Emmanuel Trouvé",
+            "Matthias Jauvin",
+            "Rémi Prebet",
+            "Alexandre Hippert-Ferrer",
+            "et al."
+        ]
+    },
+    {
+        "article": "RENYI DIVERGENCES LEARNING FOR EXPLAINABLE CLASSIFICATION OF SAR IMAGE PAIRS",
+        "authors": [
+            "Matthieu Gallet",
+            "Ammar Mian",
+            "Abdourrahmane Atto"
+        ]
+    },
+    {
+        "article": "Analyse des Séquences de Processus et Champs Aléatoires d'Ondelettes",
+        "authors": [
+            "Abdourrahmane Atto"
+        ]
+    },
+    {
+        "article": "Chapter 6: Multiclass Multilabel Change of State Transfer Learning from Image Time Series",
+        "authors": [
+            "Abdourrahmane Mahamane Atto",
+            "Héla Hadhri",
+            "Flavien Vernier",
+            "Emmanuel Trouve"
+        ]
+    },
+    {
+        "article": "VECTOR AND MATRIX LP NORMS IN POLARIMETRIC RADAR FILTERING",
+        "authors": [
+            "Abdourrahmane Atto",
+            "Grégoire Mercier",
+            "Thu Trang Le",
+            "Emmanuel Trouvé"
+        ]
+    },
+    {
+        "article": "Softlog-Softmax Layers and Divergences Contribute to a Computationally Dependable Ensemble Learning",
+        "authors": [
+            "Abdourrahmane Mahamane Atto"
+        ]
+    },
+    {
+        "article": "Assistance via IoT Networking cameras and Evidence Theory for 3D Object Instance Recognition: Application for the NAO Humanoid Robot",
+        "authors": [
+            "Didier Coquin",
+            "Reda Boukezzoula",
+            "Alexandre Benoit",
+            "Thanh Long Nguyen"
+        ]
+    },
+    {
+        "article": "Motion Head Nods analaysis: interpretation of non verbal communication gestures",
+        "authors": [
+            "Alexandre Benoit",
+            "Alice Caplier"
+        ]
+    },
+    {
+        "article": "A low-cost machine learning process for gait measurement using an electrostatic sensors network",
+        "authors": [
+            "Blandine Pichon",
+            "Eric Benoit",
+            "Stephane Perrin",
+            "Alexandre Benoit",
+            "Nicolas Berton",
+            "et al."
+        ]
+    },
+    {
+        "article": "Analyse automatique d'images, de l'expert à l'apprenti",
+        "authors": [
+            "A Benoit"
+        ]
+    },
+    {
+        "article": "The Dynamic Dictionary of Mathematical Functions (DDMF)",
+        "authors": [
+            "Alexandre Benoit",
+            "Frédéric Chyzak",
+            "Alexis Darrasse",
+            "Stefan Gerhold",
+            "Marc Mezzarobba",
+            "et al."
+        ]
+    },
+    {
+        "article": "Hypovigilence Analysis: Open or Closed Eye or Mouth ? Blinking or Yawning Frequency",
+        "authors": [
+            "Alexandre Benoit",
+            "Alice Caplier"
+        ]
+    },
+    {
+        "article": "Lambert, Alexandre Benoit",
+        "authors": [
+            "Salim Bettahar",
+            "Amin Boudghene Stambouli",
+            "P"
+        ]
+    },
+    {
+        "article": "Bags of Trajectory Words for video indexing",
+        "authors": [
+            "Tiberius Strat",
+            "Alexandre Benoit",
+            "Patrick Lambert"
+        ]
+    },
+    {
+        "article": "Vers une éco-conception proactive : État de l'art sur le développement de produit et perspectives de recherche",
+        "authors": [
+            "Adrien Lenoir",
+            "Bertrand Marconnet",
+            "Raoudha Gaha",
+            "Alexandre Durupt",
+            "Benoît Eynard"
+        ]
+    },
+    {
+        "article": "Biological Approach for Head Detection and Analysis",
+        "authors": [
+            "Alexandre Benoit",
+            "Alice Caplier"
+        ]
+    },
+    {
+        "article": "Ingénierie 3D et gestion du cycle de vie de produits manufacturés",
+        "authors": [
+            "Benoit Eynard",
+            "Alexandre Durupt",
+            "Matthieu Bricogne",
+            "Julien Le Duigou"
+        ]
+    },
+    {
+        "article": "La régression symbolique pour la modélisation des volcans",
+        "authors": [
+            "Baptiste Bouvier",
+            "Argheesh Bhanot",
+            "Yajing Yan",
+            "A Benoit"
+        ]
+    },
+    {
+        "article": "Intercepting Static Hand Gestures in Dynamic Context",
+        "authors": [
+            "Thomas Burger",
+            "Alexandre Benoit",
+            "Alice Caplier"
+        ]
+    },
+    {
+        "article": "PDE Based Enhancement of Color Images in RGB Space",
+        "authors": [
+            "Salim Bettahar",
+            "Amin Boudghene Stambouli",
+            "Patrick Lambert",
+            "Alexandre Benoit"
+        ]
+    },
+    {
+        "article": "Retina enhanced bag of words descriptors for video classification",
+        "authors": [
+            "Tiberius Strat",
+            "Alexandre Benoit",
+            "Patrick Lambert"
+        ]
+    },
+    {
+        "article": "Ngo, L",
+        "authors": [
+            "Alexandre Benoit",
+            "Laurent Bonnaud",
+            "Alice Caplier",
+            "P"
+        ]
+    },
+    {
+        "article": "Amélioration de la soutenabilité de la fin de vie des produits industriels en utilisant un système d'aide à la décision basé sur le jumeau numérique et la gestion des connaissances",
+        "authors": [
+            "Chorouk Mouflih",
+            "Raoudha Gaha",
+            "Alexandre Durupt",
+            "Benoît Eynard"
+        ]
+    },
+    {
+        "article": "Automatic difference measure between movies using dissimilarity measure fusion and rank correlation coefficients",
+        "authors": [
+            "Nicolas Voiron",
+            "Alexandre Benoit",
+            "Patrick Lambert"
+        ]
+    },
+    {
+        "article": "Standardisation Focus on Process Planning and Operations Management for Additive Manufacturing",
+        "authors": [
+            "Jinhua Xiao",
+            "Nabil Anwer",
+            "Alexandre Durupt",
+            "Julien Le Duigou",
+            "Benoit Eynard"
+        ]
+    },
+    {
+        "article": "Analyse de trajectoires pour l'indexation sémantique des vidéos à grande échelle",
+        "authors": [
+            "Sabin Tiberius Strat",
+            "Alexandre Benoit",
+            "Patrick Lambert"
+        ]
+    },
+    {
+        "article": "Process information model based on STEP for production planning in additive manufacturing: application to fused deposition modelling",
+        "authors": [
+            "Jinhua Xiao",
+            "Alexandre Durupt",
+            "Nabil Anwer",
+            "Julien Le Duigou",
+            "Benoit Eynard"
+        ]
+    },
+    {
+        "article": "Privacy and Security in Federated Learning: A Survey",
+        "authors": [
+            "Rémi Gosselin",
+            "Loïc Vieu",
+            "Faiza Loukil",
+            "A Benoit"
+        ]
+    },
+    {
+        "article": "Les nouvelles technologies d'aides à la communication: quelques pistes de réflexion.",
+        "authors": [
+            "Véronique Lespinet-Najib",
+            "Jean-Marc André",
+            "Bernard Claverie",
+            "Benoît Le Blanc",
+            "Nathalie Pinède",
+            "et al."
+        ]
+    },
+    {
+        "article": "Lecture automatique d'un ticket de caisse par vision embarquée sur un téléphone mobile",
+        "authors": [
+            "Rizlène Raoui-Outach",
+            "Cécile Million-Rousseau",
+            "Alexandre Benoit",
+            "Patrick Lambert"
+        ]
+    },
+    {
+        "article": "Bias mitigation for collaborative and ethical learning on dynamic data",
+        "authors": [
+            "Lynda Ferraguig",
+            "Alexandre Benoit",
+            "Faiza Loukil",
+            "Mickaël Bettinelli"
+        ]
+    },
+    {
+        "article": "Knowledge Sharing Using Ontology Graph-Based: Application in PLM and Bio-Imaging Contexts",
+        "authors": [
+            "Cong Cuong Pham",
+            "Alexandre Durupt",
+            "Nada Matta",
+            "Benoit Eynard"
+        ]
+    },
+    {
+        "article": "Introduction",
+        "authors": [
+            "Nathalie Clayer",
+            "Alexandre Papas",
+            "Benoît Fliche"
+        ]
+    },
+    {
+        "article": "Inversion quantitative de donnée sismique ancienne pour la caractérisation de la ressource géothermale dans le Bassin de Paris",
+        "authors": [
+            "Mathieu Darnet",
+            "Alexandre Stopin",
+            "Laure Capar",
+            "Stephane Marc",
+            "Benoit Issautier",
+            "et al."
+        ]
+    },
+    {
+        "article": "Data Definition, Parameterisation and Standardisation of Machine-specified Process in Additive Manufacturing",
+        "authors": [
+            "Jinhua Xiao",
+            "Nabil Anwer",
+            "Alexandre Durupt",
+            "Julien Le Duigou",
+            "Benoit Eynard"
+        ]
+    },
+    {
+        "article": "Improving Mobile IPv6 Handover in Wireless Network with E-HCF",
+        "authors": [
+            "Anne Wei",
+            "Gouzhi Wei",
+            "Benoit Geller"
+        ]
+    },
+    {
+        "article": "Fast MIP Handover Amelioration in Wireless Networks by Cross-Layer Solution",
+        "authors": [
+            "Anne Wei",
+            "Gouzhi Wei",
+            "Gerard Dupeyrat",
+            "Benoit Geller"
+        ]
+    },
+    {
+        "article": "Clinical and economic burden of surgical complications during hospitalization for digestive cancer surgery in France",
+        "authors": [
+            "Guillaume Piessen",
+            "Catherine Dive-Pouletty",
+            "Aurélie Danel",
+            "Magali Laborey",
+            "Benoît Thomé"
+        ]
+    },
+    {
+        "article": "A Lattice-Based Group Signature Scheme with Message-Dependent Opening",
+        "authors": [
+            "Benoît Libert",
+            "Fabrice Mouhartem",
+            "Khoa Nguyen"
+        ]
+    },
+    {
+        "article": "All-But-Many Lossy Trapdoor Functions and Selective Opening Chosen-Ciphertext Security from LWE",
+        "authors": [
+            "Benoît Libert",
+            "Amin Sakzad",
+            "Damien Stehlé",
+            "Ron Steinfeld"
+        ]
+    },
+    {
+        "article": "Zero-Knowledge Arguments for Lattice-Based Accumulators: Logarithmic-Size Ring Signatures and Group Signatures Without Trapdoors",
+        "authors": [
+            "Benoît Libert",
+            "San Ling",
+            "Khoa Nguyen",
+            "Huaxiong Wang"
+        ]
+    },
+    {
+        "article": "Encoding-Free ElGamal-Type Encryption Schemes on Elliptic Curves",
+        "authors": [
+            "Marc Joye",
+            "Benoît Libert"
+        ]
+    },
+    {
+        "article": "Born and Raised Distributively: Fully Distributed Non-Interactive Adaptively-Secure Threshold Signatures with Short Shares",
+        "authors": [
+            "Benoît Libert",
+            "Marc Joye",
+            "Moti Yung"
+        ]
+    },
+    {
+        "article": "Non-Malleability from Malleability: Simulation-Sound Quasi-Adaptive NIZK Proofs and CCA2-Secure Encryption from Homomorphic Signatures",
+        "authors": [
+            "Benoît Libert",
+            "Thomas Peters",
+            "Marc Joye",
+            "Moti Yung"
+        ]
+    },
+    {
+        "article": "Zero-Knowledge Arguments for Lattice-Based PRFs and Applications to E-Cash",
+        "authors": [
+            "Benoît Libert",
+            "San Ling",
+            "Khoa Nguyen",
+            "Huaxiong Wang"
+        ]
+    },
+    {
+        "article": "Signature Schemes with Efficient Protocols and Dynamic Group Signatures from Lattice Assumptions",
+        "authors": [
+            "Benoît Libert",
+            "San Ling",
+            "Fabrice Mouhartem",
+            "Khoa Nguyen",
+            "Huaxiong Wang"
+        ]
+    },
+    {
+        "article": "Adaptive Oblivious Transfer with Access Control from Lattice Assumptions",
+        "authors": [
+            "Benoît Libert",
+            "San Ling",
+            "Fabrice Mouhartem",
+            "Khoa Nguyen",
+            "Huaxiong Wang"
+        ]
+    },
+    {
+        "article": "Zero-Knowledge Arguments for Matrix-Vector Relations and Lattice-Based Group Encryption",
+        "authors": [
+            "Benoît Libert",
+            "San Ling",
+            "Fabrice Mouhartem",
+            "Khoa Nguyen",
+            "Huaxiong Wang"
+        ]
+    },
+    {
+        "article": "Multi-Client Functional Encryption for Linear Functions in the Standard Model from LWE",
+        "authors": [
+            "Benoît Libert",
+            "Radu Titiu"
+        ]
+    },
+    {
+        "article": "Born and raised distributively: Fully distributed non-interactive adaptively-secure threshold signatures with short shares\r\n",
+        "authors": [
+            "Benoît Libert",
+            "Marc Joye",
+            "Moti Yung"
+        ]
+    },
+    {
+        "article": "Ramanna, Moti Yung",
+        "authors": [
+            "Benoît Libert",
+            "Somindu C"
+        ]
+    },
+    {
+        "article": "New and Improved Constructions for Partially Equivocable Public Key Encryption",
+        "authors": [
+            "Benoît Libert",
+            "Alain Passelègue",
+            "Mahshid Riahinia"
+        ]
+    },
+    {
+        "article": "Adaptively Secure Distributed PRFs from LWE",
+        "authors": [
+            "Benoît Libert",
+            "Damien Stehlé",
+            "Radu Titiu"
+        ]
+    },
+    {
+        "article": "Lattice-Based Group Signatures with Logarithmic Signature Size",
+        "authors": [
+            "Fabien Laguillaumie",
+            "Adeline Langlois",
+            "Benoît Libert",
+            "Damien Stehlé"
+        ]
+    },
+    {
+        "article": "PointProofs, Revisited",
+        "authors": [
+            "Benoît Libert",
+            "Alain Passelègue",
+            "Mahshid Riahinia"
+        ]
+    },
+    {
+        "article": "Practical “Signatures with Efficient Protocols” from Simple Assumptions",
+        "authors": [
+            "Benoît Libert",
+            "Fabrice Mouhartem",
+            "Thomas Peters",
+            "Moti Yung"
+        ]
+    },
+    {
+        "article": "SO-CCA secure PKE from pairing based all-but-many lossy trapdoor functions",
+        "authors": [
+            "Dingding Jia",
+            "Benoît Libert"
+        ]
+    },
+    {
+        "article": "Chevallier, Didier Blaise, Olivier Tournilhac, et al.",
+        "authors": [
+            "Benoit Tessoulin",
+            "P Ceballos",
+            "P"
+        ]
+    },
+    {
+        "article": "Adaptive Simulation Security for Inner Product Functional Encryption",
+        "authors": [
+            "Shweta Agrawal",
+            "Benoît Libert",
+            "Monosij Maitra",
+            "Radu Titiu"
+        ]
+    },
+    {
+        "article": "Short Attribute-Based Signatures for Threshold Predicates",
+        "authors": [
+            "Javier Herranz",
+            "Fabien Laguillaumie",
+            "Benoît Libert",
+            "Carla Ràfols"
+        ]
+    },
+    {
+        "article": "Structure-Preserving Chosen-Ciphertext Security with Shorter Verifiable Ciphertexts",
+        "authors": [
+            "Benoît Libert",
+            "Thomas Peters",
+            "Chen Qian"
+        ]
+    },
+    {
+        "article": "Zero-Knowledge Elementary Databases with More Expressive Queries",
+        "authors": [
+            "Benoît Libert",
+            "Khoa Nguyen",
+            "Benjamin Hong Meng Tan",
+            "Huaxiong Wang"
+        ]
+    },
+    {
+        "article": "Adaptively Secure Non-interactive CCA-Secure Threshold Cryptosystems: Generic Framework and Constructions",
+        "authors": [
+            "Benoît Libert",
+            "Moti Yung"
+        ]
+    },
+    {
+        "article": "Ramanna",
+        "authors": [
+            "Jie Chen",
+            "Benoît Libert",
+            "Somindu C"
+        ]
+    },
+    {
+        "article": "Updatable Public Key Encryption from DCR: Efficient Constructions With Stronger Security",
+        "authors": [
+            "Calvin Abou Haidar",
+            "Benoit Libert",
+            "Alain Passelègue"
+        ]
+    },
+    {
+        "article": "ABSG : A Socially Inspired Coalition Formation Agent Model",
+        "authors": [
+            "Mickaël Bettinelli",
+            "Michel Occello",
+            "Damien Genthial"
+        ]
+    },
+    {
+        "article": "A Path Towards Fair and Equitable AI Advancing Bias Mitigation in Federated Learning",
+        "authors": [
+            "Ferraguig Lynda",
+            "A Benoit",
+            "Faiza Loukil",
+            "Mickaël Bettinelli",
+            "Christophe Lin-Kwong-Chon"
+        ]
+    },
+    {
+        "article": "Cohesion as a tool for maintaining the functional integrity of a multi-agent system",
+        "authors": [
+            "Mickaël Bettinelli",
+            "Michel Occello",
+            "Damien Genthial"
+        ]
+    },
+    {
+        "article": "La cohésion comme outil pour le maintien de l'intégrité fonctionnelle d'un système multi-agents",
+        "authors": [
+            "Mickaël Bettinelli",
+            "Damien Genthial",
+            "Michel Occello"
+        ]
+    },
+    {
+        "article": "ABSG : une architecture d’agents d’inspiration sociale pour le problème de formation de coalitions",
+        "authors": [
+            "Mickaël Bettinelli",
+            "Michel Occello",
+            "Damien Genthial"
+        ]
+    },
+    {
+        "article": "ABSG : un modèle d'agent socialement inspiré pour la formation de coalitions",
+        "authors": [
+            "Mickaël Bettinelli",
+            "Michel Occello",
+            "Damien Genthial"
+        ]
+    },
+    {
+        "article": "Coalition Formation Problem : a Group Dynamics Inspired Swarming Method",
+        "authors": [
+            "Mickaël Bettinelli",
+            "Michel Occello",
+            "Damien Genthial"
+        ]
+    },
+    {
+        "article": "A Decision Support Framework for Remanufacturing of Highly Variable Products Using a Collective Intelligence Approach",
+        "authors": [
+            "Mickaël Bettinelli",
+            "Michel Occello",
+            "Damien Genthial",
+            "Daniel Brissaud"
+        ]
+    },
+    {
+        "article": "Discovering Communities With Clustered Federated Learning",
+        "authors": [
+            "Mickaël Bettinelli",
+            "Alexandre Benoit",
+            "Kévin Grandjean"
+        ]
+    },
+    {
+        "article": "Méthodologie de comparaison des pilotages conventionnel et par apprentissage profond en sous-station de réseaux de chaleur urbains",
+        "authors": [
+            "Faiza Loukil",
+            "Lamia Berrah",
+            "Florine Giraud",
+            "Mickaël Bettinelli",
+            "Alexandre Benoit",
+            "et al."
+        ]
+    },
+    {
+        "article": "Une approche d'intelligence collective pour la conception d'un system d'aide à la décision appliqué à l'économie circulaire",
+        "authors": [
+            "Mickaël Bettinelli"
+        ]
+    },
+    {
+        "article": "Production of the future to support circular economy- development of a dedicated platform by means of a multidisciplinary approach",
+        "authors": [
+            "Akash Basia",
+            "Asiye Kurt",
+            "Fabien Dubois",
+            "Mickaël Bettinelli",
+            "Pu Zheng",
+            "et al."
+        ]
+    },
+    {
+        "article": "Large Language Models in the 6G-Enabled Computing Continuum: a White Paper",
+        "authors": [
+            "Markus Abel",
+            "Ijaz Ahmad",
+            "Constantino Alvarez Casado",
+            "Rico Berner",
+            "Mickaël Bettinelli",
+            "et al."
+        ]
+    },
+    {
+        "article": "OPTICAL MONITORING OF AVALANCHE REALEASE ZONES IN BESSANS, HAUTE MAURIENNE VALLEY, FRANCE, WITH A REMOTE AND ENERGY SELF-SUFFICIENT CAMERA SYSTEM",
+        "authors": [
+            "Ishak Barkat",
+            "Christophe Lin-Kwong-Chon",
+            "Alain Duclos",
+            "Maxence Carrel",
+            "Severin Staehly",
+            "et al."
+        ]
+    },
+    {
+        "article": "Spatially Constrained Online Dictionary Learning for Source Separation",
+        "authors": [
+            "Argheesh Bhanot",
+            "Céline Meillier",
+            "Fabrice Heitz",
+            "Laura Harsan"
+        ]
+    },
+    {
+        "article": "Analyse de la connectivité fonctionnelle en IRMf : graphes ou ICA",
+        "authors": [
+            "Argheesh Bhanot",
+            "Guillaume Jean-Paul Claude Becq",
+            "Sophie Achard",
+            "Emmanuel L Barbier"
+        ]
+    },
+    {
+        "article": "Spatially constrained dictionary learning for source separation",
+        "authors": [
+            "Argheesh Bhanot"
+        ]
+    },
+    {
+        "article": "Barbier",
+        "authors": [
+            "Guillaume Jean-Paul Claude Becq",
+            "Argheesh Bhanot",
+            "Céline Meillier",
+            "Sophie Achard",
+            "Emmanuel L"
+        ]
+    },
+    {
+        "article": "Apprentissage par dictionnaire pour le démélange de signaux temporels en IRMf",
+        "authors": [
+            "Argheesh Bhanot",
+            "Céline Meillier",
+            "Fabrice Heitz",
+            "Laura Harsan"
+        ]
+    },
+    {
+        "article": "Estimation de l’activité au repos des régions anatomiques extraites de l’atlas Allen Mouse Brain en IRMf chez la souris",
+        "authors": [
+            "Argheesh Bhanot",
+            "Céline Meillier",
+            "Fabrice Heitz",
+            "Laura Harsan"
+        ]
+    },
+    {
+        "article": "Online Dictionary Learning for Single-Subject fMRI Data Unmixing",
+        "authors": [
+            "Argheesh Bhanot",
+            "Céline Meillier",
+            "Fabrice Heitz",
+            "Laura Harsan"
+        ]
+    },
+    {
+        "article": "Modélisation parcimonieuse de la dynamique spatio-temporelle de la connectivité fonctionnelle en IRMf cérébrale",
+        "authors": [
+            "Axel Adam",
+            "Céline Meillier",
+            "Sophie Achard",
+            "Guillaume Jean-Paul Claude Becq",
+            "Argheesh Bhanot",
+            "et al."
+        ]
+    },
+    {
+        "article": "MIN and MAX Operators for Trapezoidal Fuzzy Intervals",
+        "authors": [
+            "Fayçal Megri",
+            "Reda Boukezzoula"
+        ]
+    },
+    {
+        "article": "Linear Fuzzy Regression Using Trapezoidal Fuzzy Intervals",
+        "authors": [
+            "Amory Bisserier",
+            "Reda Boukezzoula",
+            "Sylvie Galichet"
+        ]
+    },
+    {
+        "article": "Mould Pouring Control based on Absorption Capacity Identification",
+        "authors": [
+            "Mickael Biardeau",
+            "Reda Boukezzoula",
+            "Sylvie Galichet"
+        ]
+    },
+    {
+        "article": "Opérateurs Min et Max pour intervalles graduels",
+        "authors": [
+            "Reda Boukezzoula",
+            "Sylvie Galichet",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Fuzzy nonlinear adaptive internal model control (FNAIMC) part I: Fuzzy model identification",
+        "authors": [
+            "Reda Boukezzoula",
+            "Sylvie Galichet",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "A Decision-Making Computational Methodology for a Class of Type-2 Fuzzy Intervals: An Interval-Based Approach",
+        "authors": [
+            "Reda Boukezzoula",
+            "Didier Coquin"
+        ]
+    },
+    {
+        "article": "Inverse arithmetic operators for fuzzy intervals",
+        "authors": [
+            "Reda Boukezzoula",
+            "Sylvie Galichet",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Fuzzy Control of Fuzzy Interval Systems, Part I: Solving First Order Fuzzy Equations",
+        "authors": [
+            "Reda Boukezzoula",
+            "Laurent Foulloy",
+            "Sylvie Galichet"
+        ]
+    },
+    {
+        "article": "Words or numbers, Mamdani or Sugeno fuzzy systems: a comparative study",
+        "authors": [
+            "Sylvie Galichet",
+            "Reda Boukezzoula",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "De la régression floue conventionnelle à la régression graduelle : Analyse, réflexion et perspectives",
+        "authors": [
+            "Reda Boukezzoula",
+            "Sylvie Galichet",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Apprentissage de lois de commande floues pour des systèmes non linéaires (synthèse directe et indirecte)",
+        "authors": [
+            "Reda Boukezzoula",
+            "Sylvie Galichet",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Fuzzy Adaptive Linearizing Control for Non-affine Systems",
+        "authors": [
+            "Reda Boukezzoula",
+            "Sylvie Galichet",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Fuzzy Nonlinear Adaptive Internal Model Control (FNAIMC)",
+        "authors": [
+            "Reda Boukezzoula",
+            "Sylvie Galichet",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Fuzzy Control of Fuzzy Interval Systems, Part II: Application to Inverse Model Based Control",
+        "authors": [
+            "Reda Boukezzoula",
+            "Laurent Foulloy",
+            "Sylvie Galichet"
+        ]
+    },
+    {
+        "article": "Adaptive control for a class of discrete-time nonlinear systems : application of indirect fuzzy control",
+        "authors": [
+            "Reda Boukezzoula",
+            "Sylvie Galichet",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Commande à modèle interne flou",
+        "authors": [
+            "Reda Boukezzoula",
+            "Sylvie Galichet",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Fuzzy learning control of nonlinear systems using input-output linearization",
+        "authors": [
+            "Reda Boukezzoula",
+            "Sylvie Galichet",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Fuzzy adaptive control for nonlinear systems",
+        "authors": [
+            "Reda Boukezzoula",
+            "Sylvie Galichet",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Opérateurs arithmétiques inverses pour intervalles graduels étendus",
+        "authors": [
+            "Reda Boukezzoula",
+            "Laurent Foulloy",
+            "Sylvie Galichet"
+        ]
+    },
+    {
+        "article": "Optimistic Fuzzy Weighted Average",
+        "authors": [
+            "Sylvie Galichet",
+            "Reda Boukezzoula"
+        ]
+    },
+    {
+        "article": "Fuzzy control of nonlinear systems using two standard techniques",
+        "authors": [
+            "Reda Boukezzoula",
+            "Sylvie Galichet",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Multi-sensor information fusion: Combination of fuzzy systems and evidence theory approaches in color recognition for the NAO humanoid robot",
+        "authors": [
+            "Reda Boukezzoula",
+            "Didier Coquin",
+            "Thanh-Long Nguyen",
+            "Stéphane Perrin"
+        ]
+    },
+    {
+        "article": "Fuzzy Input-Output Linearization of Nonlinear Systems",
+        "authors": [
+            "Reda Boukezzoula",
+            "Sylvie Galichet",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Fuzzy nonlinear adaptive internal model control (FNAIMC) part II: Fuzzy model inversion",
+        "authors": [
+            "Reda Boukezzoula",
+            "Sylvie Galichet",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Hybrid dynamic model and simulation of a mould pouring machine",
+        "authors": [
+            "Mickael Biardeau",
+            "Christophe Debray",
+            "Michel Dussud",
+            "Reda Boukezzoula",
+            "Sylvie Galichet"
+        ]
+    },
+    {
+        "article": "Exact inversion of Takagi-Sugeno fuzzy models",
+        "authors": [
+            "Reda Boukezzoula",
+            "Sylvie Galichet",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Robust fuzzy control for a class of nonlinear systems using input-output linearization",
+        "authors": [
+            "Reda Boukezzoula",
+            "Sylvie Galichet",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Régulation de niveau pour le remplissage automatique de moules en fonderie",
+        "authors": [
+            "Mickael Biardeau",
+            "Reda Boukezzoula",
+            "Sylvie Galichet"
+        ]
+    },
+    {
+        "article": "Commande floue et commande à base d'intervalles",
+        "authors": [
+            "Reda Boukezzoula",
+            "Laurent Foulloy",
+            "Sylvie Galichet"
+        ]
+    },
+    {
+        "article": "Tamani, Reda Boukezzoula, Georges Habchi",
+        "authors": [
+            "K"
+        ]
+    },
+    {
+        "article": "Evaluating the SPIRAL Model within an existing Competence Network across Modules to Enhance Personalization",
+        "authors": [
+            "Sorana Cimpan",
+            "Francesco Floris",
+            "Marina Marchisio Conte",
+            "Sergio Rabellino"
+        ]
+    },
+    {
+        "article": "Construction de Vues pour la Représentation Architecturale des Systèmes Logiciels",
+        "authors": [
+            "Sorana Cimpan",
+            "Hervé Verjus",
+            "Azadeh Razavizadeh"
+        ]
+    },
+    {
+        "article": "Extraction d'architecture guidée par les modèles",
+        "authors": [
+            "Sorana Cimpan",
+            "Hervé Verjus",
+            "Azadeh Razavizadeh"
+        ]
+    },
+    {
+        "article": "Application and evaluation of sentence embedding and clustering methods in the context of concept hierarchy construction",
+        "authors": [
+            "Ranya El-Hadri",
+            "Sorana Cimpan",
+            "Luc Damas",
+            "Julien Boissière"
+        ]
+    },
+    {
+        "article": "Learning Outcomes Similarity in the SPIRAL Model : Evolution of Algorithmic Approaches and Educational Implications",
+        "authors": [
+            "Francesco Floris",
+            "Sorana Cimpan",
+            "Marina Marchisio Conte",
+            "Sergio Rabellino"
+        ]
+    },
+    {
+        "article": "FORESTED : INTERACTIVE TOOL FOR COMPETENCY CENTERED CURRICULUM VISUALIZATION",
+        "authors": [
+            "Sorana Cimpan",
+            "Romain Ferrer",
+            "Hinata Yokoyama"
+        ]
+    },
+    {
+        "article": "Intelligent Instrument Design with ArchWare ADL",
+        "authors": [
+            "Jérôme Revillard",
+            "Eric Benoit",
+            "Flavio Oquendo",
+            "Sorana Cimpan"
+        ]
+    },
+    {
+        "article": "Internet Science Curriculum construction in EINS",
+        "authors": [
+            "Sorana Cimpan",
+            "Kavé Salamatian"
+        ]
+    },
+    {
+        "article": "Can Styles Improve Architectural Reuse ?",
+        "authors": [
+            "Sorana Cimpan",
+            "Vincent Couturier"
+        ]
+    },
+    {
+        "article": "Construction of a concept-hierarchy: An automatic process using semantic and linguistic tools",
+        "authors": [
+            "Ranya El-Hadri",
+            "Julien Boissière",
+            "Sorana Cimpan",
+            "Luc Damas"
+        ]
+    },
+    {
+        "article": "Student-Centered Personalization of Individual Education Through Reusable and Autonomous Learning Units - The SPIRAL Model",
+        "authors": [
+            "Sorana Cimpan",
+            "Francesco Floris",
+            "Marina Marchisio",
+            "Sergio Rabellino"
+        ]
+    },
+    {
+        "article": "Omega: a language and system for on-line monitoring of software processes",
+        "authors": [
+            "Sorana Cimpan",
+            "Flavio Oquendo"
+        ]
+    },
+    {
+        "article": "BeeEye: A Framework for Constructing Architectural Views",
+        "authors": [
+            "Hervé Verjus",
+            "Sorana Cimpan",
+            "Azadeh Razavizadeh",
+            "Sté́phane Ducasse"
+        ]
+    },
+    {
+        "article": "COMPETENCY CENTERED CURRICULA MAPPING SUPPORT: THE FORESTED VISUALIZATION TOOL",
+        "authors": [
+            "Romain Ferrer",
+            "Sorana Cimpan",
+            "Hinata Yokoyama"
+        ]
+    },
+    {
+        "article": "Dealing with Software Process Deviations using Fuzzy Logic Based Monitoring",
+        "authors": [
+            "Sorana Cimpan",
+            "Flavio Oquendo"
+        ]
+    },
+    {
+        "article": "Software System Understanding via Architectural Views Extraction According to Multiple Viewpoints",
+        "authors": [
+            "Azadeh Razavizadeh",
+            "Sorana Cimpan",
+            "Hervé́ Verjus",
+            "Sté́phane Ducasse"
+        ]
+    },
+    {
+        "article": "Fuzzy indicators for monitoring software processes ",
+        "authors": [
+            "Sorana Cimpan",
+            "Flavio Oquendo"
+        ]
+    },
+    {
+        "article": "Etat de l'art sur les styles architecturaux : classification et comparaison des langages de description d'architectures logicielles ",
+        "authors": [
+            "Fabien Leymonerie",
+            "Sorana Cimpan",
+            "Flavio Oquendo"
+        ]
+    },
+    {
+        "article": "MEASURING SEMANTIC SIMILARITY OF LEARNING OUTCOMES: COMPUTATIONAL APPROACHES AND EDUCATIONAL IMPLICATIONS",
+        "authors": [
+            "Sorana Cimpan",
+            "Francesco Floris",
+            "Marina Marchisio",
+            "Sergio Rabellino"
+        ]
+    },
+    {
+        "article": "From group work to team work: comparative analysis in three european institutions",
+        "authors": [
+            "Isabelle Lermigeaux-Sarrade",
+            "Jean-Luc Sarrade",
+            "Stéphane Perrin",
+            "Sorana Cimpan"
+        ]
+    },
+    {
+        "article": "Application of Baddeley's distance to dissimilarity measurement between gray scale images",
+        "authors": [
+            "Didier Coquin",
+            "Philippe Bolon"
+        ]
+    },
+    {
+        "article": "Sub-Classification Strategies for Tree Species Recognition",
+        "authors": [
+            "Rihab Ben Ameur",
+            "Lionel Valet",
+            "Didier Coquin"
+        ]
+    },
+    {
+        "article": "Lambert, Vasile Buzuloiu",
+        "authors": [
+            "Bogdan Ionescu",
+            "Didier Coquin",
+            "P"
+        ]
+    },
+    {
+        "article": "A Separability Index Based on Earth Mover's Distance for Local Evaluation of Fusion Systems",
+        "authors": [
+            "Abdellah Lamallem",
+            "Lionel Valet",
+            "Didier Coquin"
+        ]
+    },
+    {
+        "article": "Distributed data fusion applied to human gesture measurement",
+        "authors": [
+            "Eric Benoit",
+            "Didier Coquin",
+            "Hideyuki Sawada"
+        ]
+    },
+    {
+        "article": "Fusion System Based on Belief Functions Theory and Approximated Belief Functions for Tree Species Recognition\r\n",
+        "authors": [
+            "Rihab Ben Ameur",
+            "Lionel Valet",
+            "Didier Coquin"
+        ]
+    },
+    {
+        "article": "Interval-valued fuzzy regression: Philosophical and methodological issues",
+        "authors": [
+            "Reda Boukezzoula",
+            "Didier Coquin"
+        ]
+    },
+    {
+        "article": "Gesture Recognition Based on the Fusion of Hand Positioning and Arm Gestures",
+        "authors": [
+            "Didier Coquin",
+            "Eric Benoit",
+            "Hideyuki Sawada",
+            "Bogdan Ionescu"
+        ]
+    },
+    {
+        "article": "Système d’aide à la reconnaissance d’espèces d’arbres à partir d’une base de connaissance incomplète, partielle et conflictuelle",
+        "authors": [
+            "Rihab Ben Ameur",
+            "Lionel Valet",
+            "Didier Coquin",
+            "Sylvie Galichet"
+        ]
+    },
+    {
+        "article": "Evaluation locale de la performance basée sur un critère Mission/Qualité",
+        "authors": [
+            "Abdellah Lamallem",
+            "Didier Coquin",
+            "Lionel Valet"
+        ]
+    },
+    {
+        "article": "Color Recognition for NAO Robot Using Sugeno Fuzzy System and Evidence Theory",
+        "authors": [
+            "Thanh Long Nguyen",
+            "Reda Boukezzoula",
+            "Didier Coquin",
+            "Stephane Perrin"
+        ]
+    },
+    {
+        "article": "A multi level evaluation for fusion system interaction improvement",
+        "authors": [
+            "Abdellah Lamallem",
+            "Lionel Valet",
+            "Didier Coquin"
+        ]
+    },
+    {
+        "article": "Performance Evaluation of a Fusion System Devoted to Image Interpretation",
+        "authors": [
+            "Abdellah Lamallem",
+            "Lionel Valet",
+            "Didier Coquin"
+        ]
+    },
+    {
+        "article": "Influence of Basic Belief Assignments Construction on the Behaviour of a Fusion System for Tree Species Recognition",
+        "authors": [
+            "Rihab Ben Ameur",
+            "Didier Coquin",
+            "Lionel Valet"
+        ]
+    },
+    {
+        "article": "Gradual Interval Arithmetic and Fuzzy Interval Arithmetic",
+        "authors": [
+            "Reda Boukezzoula",
+            "Laurent Foulloy",
+            "Didier Coquin",
+            "Sylvie Galichet"
+        ]
+    },
+    {
+        "article": "A Multilevel Clustering Method for Risky Areas in the Context of Avalanche Danger Management",
+        "authors": [
+            "Fanny Pagnier",
+            "Frédéric Pourraz",
+            "Didier Coquin",
+            "Gilles Mauris",
+            "Hervé Verjus"
+        ]
+    },
+    {
+        "article": "Local versus global evaluation of a cooperative fusion system for 3D image interpretation",
+        "authors": [
+            "Abdellah Lamallem",
+            "Lionel Valet",
+            "Didier Coquin"
+        ]
+    },
+    {
+        "article": "From fuzzy regression to gradual regression: Interval-based analysis and extensions",
+        "authors": [
+            "Reda Boukezzoula",
+            "Sylvie Galichet",
+            "Didier Coquin"
+        ]
+    },
+    {
+        "article": "Lower and Upper Bounds for Scaling Factors used for Integer Approximation of 3D Anisotropic Chamfer Distance Operator",
+        "authors": [
+            "Didier Coquin",
+            "Philippe Bolon"
+        ]
+    },
+    {
+        "article": "Fusion method choice driven by user constraints in a human gesture recognition context",
+        "authors": [
+            "Stéphane Perrin",
+            "Eric Benoit",
+            "Didier Coquin"
+        ]
+    },
+    {
+        "article": "Local evaluation of a fusion system for 3D tomographic image interpretation",
+        "authors": [
+            "Abdellah Lamallem",
+            "Lionel Valet",
+            "Didier Coquin"
+        ]
+    },
+    {
+        "article": "An evidential k-nearest neighbors combination rule for tree species recognition",
+        "authors": [
+            "Siwar Jendoubi",
+            "Didier Coquin",
+            "Reda Boukezzoula"
+        ]
+    },
+    {
+        "article": "A Global System for Avalanche Risk Assessment",
+        "authors": [
+            "Fanny Pagnier",
+            "Frédéric Pourraz",
+            "Hervé Verjus",
+            "Didier Coquin",
+            "Gilles Mauris"
+        ]
+    },
+    {
+        "article": "Fuzzification de la distance d'arrêt des avalanches dans les Alpes françaises pour l'aide à la décision en ski de randonnée",
+        "authors": [
+            "Fanny Pagnier",
+            "Frédéric Pourraz",
+            "Gilles Mauris",
+            "Didier Coquin",
+            "Hervé Verjus"
+        ]
+    },
+    {
+        "article": "Classification des précipitations sur les massifs alpins français",
+        "authors": [
+            "Fanny Pagnier",
+            "Didier Coquin",
+            "Frédéric Pourraz",
+            "Hervé Verjus",
+            "Gilles Mauris"
+        ]
+    },
+    {
+        "article": "Aggregation Evaluation of a Fusion System Devoted to Image Interpretation",
+        "authors": [
+            "Abdellah Lamallem",
+            "Didier Coquin",
+            "Lionel Valet"
+        ]
+    },
+    {
+        "article": "An Evidential System for Color Recognition Using Multi-cameras",
+        "authors": [
+            "Thanh Long Nguyen",
+            "Didier Coquin",
+            "Reda Boukezzoula"
+        ]
+    },
+    {
+        "article": "MED15/382: Co-operative Interface in Medical Education on the WWW",
+        "authors": [
+            "C Courtin",
+            "P Le Beux"
+        ]
+    },
+    {
+        "article": "Building and Analyzing a Corpus of Contextualized Traces Collected during a Technology Enhanced Teaching Module",
+        "authors": [
+            "Hajer Chebil",
+            "Christophe Courtin",
+            "Jean-Jacques Girardot"
+        ]
+    },
+    {
+        "article": "Fresnel, P",
+        "authors": [
+            "A"
+        ]
+    },
+    {
+        "article": "CARTE: An Observation Station to Regulate Activity in a Learning Context",
+        "authors": [
+            "Christophe Courtin"
+        ]
+    },
+    {
+        "article": "Une Station d'Observation pour des Situations d'Apprentissage Collaboratif Instrumenté",
+        "authors": [
+            "Christophe Courtin",
+            "Stéphane Talbot"
+        ]
+    },
+    {
+        "article": "Pouydebat, Pouydebat O",
+        "authors": [
+            "Olivier O"
+        ]
+    },
+    {
+        "article": "A Web Collaborative Editor: awareness indicators in an experiment at school",
+        "authors": [
+            "Christophe Courtin",
+            "Steve Giraud"
+        ]
+    },
+    {
+        "article": "CARTE: an Observation Station to Regulate Activity in a Learning Context",
+        "authors": [
+            "Christophe Courtin"
+        ]
+    },
+    {
+        "article": "A case study to validate the PROXYMA approach to share and analyse contextualised interaction tracecorpora in a TEL environment.",
+        "authors": [
+            "Hajer Chebil",
+            "Christophe Courtin",
+            "Jean-Jacques Girardot"
+        ]
+    },
+    {
+        "article": "W.W.W",
+        "authors": [
+            "Christophe Courtin",
+            "Séka Louis-Paul",
+            "Cléran Lionel",
+            "Pierre Lebeux"
+        ]
+    },
+    {
+        "article": "AN ARCHITECTURE TO RECORD TRACES IN INSTRUMENTED COLLABORATIVE LEARNING ENVIRONMENTS",
+        "authors": [
+            "Christophe Courtin",
+            "Stéphane Talbot"
+        ]
+    },
+    {
+        "article": "A Model for CSCL Allowing Tailorability: Implementation in the “Electronic Schoolbag” Groupware",
+        "authors": [
+            "Christian Martel",
+            "Christine Ferraris",
+            "Bernard Caron",
+            "Thibault Carron",
+            "Ghislaine Chabert",
+            "et al."
+        ]
+    },
+    {
+        "article": "ADM-INDEX: An Automated System for Indexing and Retrieval of Medical Texts",
+        "authors": [
+            "Séka Louis-Paul",
+            "Christophe Courtin",
+            "Pierre Lebeux"
+        ]
+    },
+    {
+        "article": "The proxy model: a new approach to sharing and analyzing learning traces corpora",
+        "authors": [
+            "Hajer Chebil",
+            "Christophe Courtin",
+            "Jean-Jacques Girardot"
+        ]
+    },
+    {
+        "article": "A benchmarking platform for analyzing corpora of traces: the recognition of the users' involvement in fields of competencies.",
+        "authors": [
+            "Christophe Courtin",
+            "Miguel Tomasena"
+        ]
+    },
+    {
+        "article": "Analyse assistée des traces d'interaction oculaires et graphomotrices au cours de séances de production écrite instrumentées ξ ",
+        "authors": [
+            "Stéphane Talbot",
+            "Christophe Courtin"
+        ]
+    },
+    {
+        "article": "A Web Server for Teaching Clinical Students in a Medical School and University Hospital",
+        "authors": [
+            "Patrick Denier",
+            "Bruno Pouliquen",
+            "Denis Delamarre",
+            "Mireille Cleret",
+            "Christophe Courtin",
+            "et al."
+        ]
+    },
+    {
+        "article": "Trust-aware Recommendations",
+        "authors": [
+            "Christophe Courtin",
+            "Miguel Tomasena"
+        ]
+    },
+    {
+        "article": "Automatic Analysis Assistant for Studies of Computer-Supported Human Interactions *",
+        "authors": [
+            "Christophe Courtin",
+            "Stéphane Talbot"
+        ]
+    },
+    {
+        "article": "Courtin, S",
+        "authors": [
+            "C"
+        ]
+    },
+    {
+        "article": "Trace Analysis in Instrumented Learning Groupware: an experiment in a practical class at the university",
+        "authors": [
+            "Stéphane Talbot",
+            "Christophe Courtin"
+        ]
+    },
+    {
+        "article": "Des données d'interaction du Web aux compétences",
+        "authors": [
+            "Christophe Courtin",
+            "Soumaya Yahiaoui"
+        ]
+    },
+    {
+        "article": "XPS as an effective method to study the band alignement in Fe/2D Solid/Silicon heterostructure",
+        "authors": [
+            "Courtin Jules",
+            "Sylvain Tricot",
+            "Gabriel Delhaye",
+            "Bruno Lépine",
+            "Pascal Turban",
+            "et al."
+        ]
+    },
+    {
+        "article": "BEATCORP : une plate-forme de benchmarking pour l'analyse de corpus de tracesξ",
+        "authors": [
+            "Hajer Chebil",
+            "Christof Courtin",
+            "Jean-Jacques Girardot"
+        ]
+    },
+    {
+        "article": "Competences Network Based on Interaction Data for Recommendation and Evaluation Aims",
+        "authors": [
+            "Soumaya Yahiaoui",
+            "Christophe Courtin",
+            "Pierre Maret",
+            "Laurent Tabourot"
+        ]
+    },
+    {
+        "article": "An Ontology-Based Approach for Sharing and Analyzing Learning Trace Corpora",
+        "authors": [
+            "Hajer Chebil",
+            "Jean-Jacques Girardot",
+            "Christophe Courtin"
+        ]
+    },
+    {
+        "article": "Decision-making system for recommending and evaluating competences networks based on interaction data",
+        "authors": [
+            "Soumaya Yahiaoui",
+            "Christophe Courtin",
+            "Pierre Maret",
+            "Laurent Tabourot"
+        ]
+    },
+    {
+        "article": "Activity regulation for the participative creation of data on-line",
+        "authors": [
+            "Christophe Courtin",
+            "Stéphane Talbot",
+            "Mathieu Mangeot"
+        ]
+    },
+    {
+        "article": "Denier, P",
+        "authors": [
+            "P"
+        ]
+    },
+    {
+        "article": "Déploiement et outillage pour l’Ingénierie Système : Travaux / Retours d’expérience / Compétences",
+        "authors": [
+            "Vincent Chapurlat",
+            "Pierre Couturier",
+            "Nicolas Daclin"
+        ]
+    },
+    {
+        "article": "Document to model transition for architecture evaluation approach: Application to a nuclear infrastructure project",
+        "authors": [
+            "Jeremy Bourdon",
+            "Pierre Couturier",
+            "Vincent Chapurlat",
+            "Robert Plana",
+            "Victor Richet",
+            "et al."
+        ]
+    },
+    {
+        "article": "Evaluation et relations de traçabilité en Ingénierie Système",
+        "authors": [
+            "Pierre Couturier",
+            "Mambaye Lo",
+            "Vincent Chapurlat"
+        ]
+    },
+    {
+        "article": "Model‐based architecting evaluation method for the delivery of complex nuclear projects",
+        "authors": [
+            "Jérémy Bourdon",
+            "Pierre Couturier",
+            "Vincent Chapurlat",
+            "Robert Plana",
+            "Victor Richet",
+            "et al."
+        ]
+    },
+    {
+        "article": "Towards a Method to Operationalize Modelling, Verification, and Evaluation of Architectural Solutions in the Field of Nuclear Critical Infrastructure Engineering",
+        "authors": [
+            "Jeremy Bourdon",
+            "Pierre Couturier",
+            "Vincent Chapurlat",
+            "Robert Plana",
+            "Victor Richet",
+            "et al."
+        ]
+    },
+    {
+        "article": "Evaluating Alternatives for Designing Mechatronic Systems in a Systems Engineering Context",
+        "authors": [
+            "Mambaye Lo",
+            "Pierre Couturier",
+            "Vincent Chapurlat"
+        ]
+    },
+    {
+        "article": "Le festival Littérature Au Centre",
+        "authors": [
+            "Denis Couturier",
+            "Nathalie Vincent-Munnia"
+        ]
+    },
+    {
+        "article": "Tracking the consequences of design decisions in mechatronic systems engineering",
+        "authors": [
+            "Pierre Couturier",
+            "Mambaye Lo",
+            "Abdelhak Imoussaten",
+            "Vincent Chapurlat",
+            "Jacky Montmain"
+        ]
+    },
+    {
+        "article": "Towards a contribution to the early V&V and evaluation of architectural solutions for Nuclear Infrastructures project delivery",
+        "authors": [
+            "Jeremy Bourdon",
+            "Pierre Couturier",
+            "Vincent Chapurlat",
+            "Robert Plana",
+            "Victor Richet",
+            "et al."
+        ]
+    },
+    {
+        "article": "A new culture model of rabbit trophoblastic cells to explore cell function and transplacental transfers",
+        "authors": [
+            "Guenhaël Sanz",
+            "Nathalie Daniel",
+            "Vincent Brochard",
+            "Marie-Christine Aubrière",
+            "Martine Letheule",
+            "et al."
+        ]
+    },
+    {
+        "article": "Contribution à l'évaluation d'architectures de produits mécatroniques en IS",
+        "authors": [
+            "Mambaye Lo",
+            "Pierre Couturier",
+            "Vincent Chapurlat"
+        ]
+    },
+    {
+        "article": "Patterns for Agent-Based Information Systems: A Case Study in Transport",
+        "authors": [
+            "Vincent Couturier",
+            "Marc-Philippe Huget",
+            "David Telisson"
+        ]
+    },
+    {
+        "article": "Engineering agent-based information systems: a case study of automatic contract net systems",
+        "authors": [
+            "Vincent Couturier",
+            "Marc-Philippe Huget",
+            "David Telisson"
+        ]
+    },
+    {
+        "article": "Modélisation et expérimentation d'une chambre intelligente : les premiers pas d'une expérience hospitalière",
+        "authors": [
+            "Vincent Rialle",
+            "Nancy Lauvernay",
+            "Jean-François Piquard",
+            "Alain Franco",
+            "Pascal Couturier"
+        ]
+    },
+    {
+        "article": "Patterns d'Analyse pour l'Ingénierie de Systèmes d'Information à base d'Agents : Une Application au Domaine du Transport",
+        "authors": [
+            "Vincent Couturier",
+            "Marc-Philippe Huget",
+            "David Telisson"
+        ]
+    },
+    {
+        "article": "Patterns d'analyse pour l'ingénierie des systèmes multi-agents",
+        "authors": [
+            "Vincent Couturier",
+            "David Telisson",
+            "Marc-Philippe Huget"
+        ]
+    },
+    {
+        "article": "Saint-Chéron, chemin rural n°16 « Le Cheval Blanc », lot B, Île-de-France, Essonne (91), Rapport de fouille archéologique",
+        "authors": [
+            "Christine Mouchène-Borys",
+            "Philippe Lorquet",
+            "Vincent Goustard",
+            "Fabrice Brutus",
+            "Olivier Cotté",
+            "et al."
+        ]
+    },
+    {
+        "article": "L'art au défi de l'espérance",
+        "authors": [
+            "Sabrina Dubbeld"
+        ]
+    },
+    {
+        "article": "Landounic : le plus vieux moulin à marée est désormais breton !",
+        "authors": [
+            "Vincent Bernard",
+            "Yann Couturier",
+            "Fréderic Epaud",
+            "Yannick Le Digol",
+            "François Le Gall",
+            "et al."
+        ]
+    },
+    {
+        "article": "Breskin, T",
+        "authors": [
+            "Dominique Thers",
+            "A"
+        ]
+    },
+    {
+        "article": "SH3KBP1 promotes skeletal myofiber formation and functionality through ER/SR architecture integrity",
+        "authors": [
+            "Alexandre Guiraud",
+            "Nathalie Couturier",
+            "Emilie Christin",
+            "Léa Castellano",
+            "Marine Daura",
+            "et al."
+        ]
+    },
+    {
+        "article": "Discovery of novel carbohydrate-active enzymes through the rational exploration of the protein sequences space",
+        "authors": [
+            "William Helbert",
+            "Laurent Poulet",
+            "Sophie Drouillard",
+            "Sophie Mathieu",
+            "Mélanie Loiodice",
+            "et al."
+        ]
+    },
+    {
+        "article": "Guehl, S",
+        "authors": [
+            "M"
+        ]
+    },
+    {
+        "article": "Lechat, et al.",
+        "authors": [
+            "Marie Couturier",
+            "David Navarro",
+            "Anne Favel",
+            "Mireille Haon",
+            "C"
+        ]
+    },
+    {
+        "article": "Comparative Metagenomics of Cellulose- and Poplar Hydrolysate-Degrading Microcosms from Gut Microflora of the Canadian Beaver (Castor canadensis) and North American Moose (Alces americanus) after Long-Term Enrichment",
+        "authors": [
+            "Mabel Wong",
+            "Weijun Wang",
+            "Marie Couturier",
+            "Fakhria Razeq",
+            "Vincent Lombard",
+            "et al."
+        ]
+    },
+    {
+        "article": "Strategies of mapping between gesture data and synthesis model parameters using perceptual spaces",
+        "authors": [
+            "Daniel Arfib",
+            "Jean-Michel Couturier",
+            "Loïc Kessous",
+            "Vincent Verfaille"
+        ]
+    },
+    {
+        "article": "SH3KBP1 scaffolds endoplasmic reticulum and controls skeletal myofibers architecture and integrity",
+        "authors": [
+            "Alexandre Guiraud",
+            "Emilie Christin",
+            "Nathalie Couturier",
+            "Carole Kretz-Remy",
+            "Alexandre Janin",
+            "et al."
+        ]
+    },
+    {
+        "article": "Prix Master 2016 de la SFM",
+        "authors": [
+            "Nathalie Couturier",
+            "Vincent Gache"
+        ]
+    },
+    {
+        "article": "Damas, 1:2000, 1922-1924, 6 feuilles, Ahmed Rassem",
+        "authors": [
+            "Jean-Luc Arnaud"
+        ]
+    },
+    {
+        "article": "La population de Damas à la fin de la période ottomane",
+        "authors": [
+            "Jean-Luc Arnaud"
+        ]
+    },
+    {
+        "article": "Environs de Damas, 1:25 000, 1941, 7 feuilles",
+        "authors": [
+            "Jean-Luc Arnaud"
+        ]
+    },
+    {
+        "article": "Damas, 1:2 000, 1935, 12 feuilles et 1:5000, 1936, 4 feuilles",
+        "authors": [
+            "Jean-Luc Arnaud"
+        ]
+    },
+    {
+        "article": "Damas, 1:500, 1:1000 et 1:2 000, plan cadastral, 1928-1934, 292 feuilles",
+        "authors": [
+            "Jean-Luc Arnaud"
+        ]
+    },
+    {
+        "article": "Entre Istanbul et La Mecque, entre Bagdad et l'Europe, Damas au XIXe siècle",
+        "authors": [
+            "Jean-Luc Arnaud"
+        ]
+    },
+    {
+        "article": "Les extensions de Damas à la fin du XIXe siècle, éléments pour une évaluation",
+        "authors": [
+            "Jean-Luc Arnaud"
+        ]
+    },
+    {
+        "article": "Fillâ",
+        "authors": [
+            "Jean-Luc Arnaud"
+        ]
+    },
+    {
+        "article": "L’atelier Damas (1992-2002) : d’une formation initiatique à une importante tentative de conservation du patrimoine",
+        "authors": [
+            "Waad Tannous"
+        ]
+    },
+    {
+        "article": "Damas, urbanisme et architecture, 1860-1925",
+        "authors": [
+            "Jean-Luc Arnaud"
+        ]
+    },
+    {
+        "article": "Syrie, 1:20 000 et 1:5 000, aménagements hydrauliques et agricoles",
+        "authors": [
+            "Jean-Luc Arnaud",
+            "Tafieda Sabbauh"
+        ]
+    },
+    {
+        "article": "Corpus cartographique pour l’histoire de Damas, Syrie, à la fin de la période ottomane (1760-1924)",
+        "authors": [
+            "Jean-Luc Arnaud"
+        ]
+    },
+    {
+        "article": "The 9-lipoxygenase GhLOX1 gene is associated with the hypersensitive reaction of cotton Gossypium hirsutum to Xanthomonas campestris pv malvacearum",
+        "authors": [
+            "Philippe Marmey",
+            "Aïda Jalloul",
+            "Majd Alhamdia",
+            "Komi Assigbetse",
+            "Jean-Luc Cacas",
+            "et al."
+        ]
+    },
+    {
+        "article": "Définition du terme vs",
+        "authors": [
+            "Marie Calberg-Challot",
+            "Christophe Roche",
+            "Luc Damas"
+        ]
+    },
+    {
+        "article": "Ontoterminology: A new paradigm for terminology",
+        "authors": [
+            "Christophe Roche",
+            "Marie Calberg-Challot",
+            "Luc Damas",
+            "Philippe Rouard"
+        ]
+    },
+    {
+        "article": "Multilingual Thesaurus: The Ontoterminology Approach",
+        "authors": [
+            "Christophe Roche",
+            "Luc Damas",
+            "Julien Roche"
+        ]
+    },
+    {
+        "article": "Prendre en compte les comportements cognitifs des apprenants dans la conception de systèmes d'assistance à l'apprentissage",
+        "authors": [
+            "Luc Damas",
+            "Alain Mille",
+            "Rémy Versace"
+        ]
+    },
+    {
+        "article": "CBR for recollection assistance: CBR cycle revisited in a particular context",
+        "authors": [
+            "Luc Damas",
+            "Alain Mille",
+            "Rémy Versace"
+        ]
+    },
+    {
+        "article": "Recollection Assistance in Learning Tasks",
+        "authors": [
+            "Luc Damas",
+            "Alain Mille",
+            "Rémy Versace"
+        ]
+    },
+    {
+        "article": "The effect of prior ultrasonic shot peening treatment on the low-temperature plasma nitriding of a metastable β-Ti alloy",
+        "authors": [
+            "Renaud Genin",
+            "Luc Pichon",
+            "Antoine Guitton",
+            "Michel Drouet",
+            "Thierry Grosdidier"
+        ]
+    },
+    {
+        "article": "Constructions patrimoniales et modernisation dans les capitales du monde arabe méditerranéen",
+        "authors": [
+            "Jean-Luc Arnaud"
+        ]
+    },
+    {
+        "article": "Alter-ego : évaluation d'un assistant de remémoration",
+        "authors": [
+            "Luc Damas",
+            "Alain Mille",
+            "Rémy Versace"
+        ]
+    },
+    {
+        "article": "Interfacial engineering of ferromagnetism in wafer-scale van der Waals Fe4GeTe2 far above room temperature",
+        "authors": [
+            "Hangtian Wang",
+            "Haichang Lu",
+            "Zongxia Guo",
+            "Ang Li",
+            "Peichen Wu",
+            "et al."
+        ]
+    },
+    {
+        "article": "Extensions des grandes villes du Proche-Orient (tournant des XIXe et XXe siècles",
+        "authors": [
+            "Jean-Luc Arnaud"
+        ]
+    },
+    {
+        "article": "A single multi-configuration Direct Electron Detector for various electron imaging and diffraction-based techniques in SEM",
+        "authors": [
+            "Nohayla El-Khairaoui",
+            "Julien Guyon",
+            "Nathalie Gey",
+            "Luc Morhain",
+            "Nabila Maloufi"
+        ]
+    },
+    {
+        "article": "Città ottomane nel XIX secolo",
+        "authors": [
+            "Jean-Luc Arnaud"
+        ]
+    },
+    {
+        "article": "Abris sous-roche du champ de Quercy (commune de La Couvertoirade, Aveyron) : rapport de sauvetage programmé",
+        "authors": [
+            "Fabrice Pons",
+            "Robert Abila",
+            "Jean-Luc Boudartchouk",
+            "Gilles Peyre"
+        ]
+    },
+    {
+        "article": "Quantitative Security Metrics: Assessment of Cyberattack Scenarios for Cyber-Physical Systems",
+        "authors": [
+            "Mike Da Silva",
+            "Nga Nguyen"
+        ]
+    },
+    {
+        "article": "Convergence sûreté-sécurité des systèmes de contrôle industriels : appréciation du risque de cybersécurité pour la sûreté des systèmes",
+        "authors": [
+            "Mike Da Silva"
+        ]
+    },
+    {
+        "article": "Procédé et dispositif d’identification des risques de cyberattaques",
+        "authors": [
+            "Mike Da Silva",
+            "Pierre-Henri Thevenon",
+            "Maxime Puys",
+            "Stéphane Mocanu"
+        ]
+    },
+    {
+        "article": "Method and device for identifying risks of cyberattacks",
+        "authors": [
+            "Mike Da Silva",
+            "Pierre-Henri Thevenon",
+            "Maxime Puys",
+            "Stéphane Mocanu"
+        ]
+    },
+    {
+        "article": "Safety-Security Convergence: Automation of IEC 62443-3-2",
+        "authors": [
+            "Mike Da Silva",
+            "Stéphane Mocanu",
+            "Maxime Puys",
+            "Pierre-Henri Thevenon"
+        ]
+    },
+    {
+        "article": "Convergence sûreté-sécurité des Systèmes de Contrôle Industriel",
+        "authors": [
+            "Mike Da Silva",
+            "Pierre-Henri Thevenon",
+            "Stéphane Mocanu",
+            "Maxime Puys"
+        ]
+    },
+    {
+        "article": "PLC Logic-Based Cybersecurity Risks Identification for ICS",
+        "authors": [
+            "Mike Da Silva",
+            "Maxime Puys",
+            "Pierre-Henri Thevenon",
+            "Stéphane Mocanu"
+        ]
+    },
+    {
+        "article": "Automated ICS template for STRIDE Microsoft Threat Modeling Tool",
+        "authors": [
+            "Mike Da Silva",
+            "Maxime Puys",
+            "Pierre-Henri Thevenon",
+            "Stéphane Mocanu",
+            "Nelson Nkawa"
+        ]
+    },
+    {
+        "article": "A global approach for natural history museum collections",
+        "authors": [
+            "Kirk Johnson",
+            "Ian Owens",
+            "Alexei Abramov",
+            "Silvia Ametrano",
+            "Gretchen Baker",
+            "et al."
+        ]
+    },
+    {
+        "article": "WHO's essential medicines and AWaRe: recommendations on first- and second-choice antibiotics for empiric treatment of clinical infections",
+        "authors": [
+            "Lorenzo Moja",
+            "Veronica Zanichelli",
+            "Dominik Mertz",
+            "Sumanth Gandra",
+            "Bernadette Cappello",
+            "et al."
+        ]
+    },
+    {
+        "article": "Monitoring multidimensional aspects of quality of life after cancer immunotherapy: protocol for the international multicentre, observational QUALITOP cohort study",
+        "authors": [
+            "Petra Vinke",
+            "Marc Combalia",
+            "Geertruida de Bock",
+            "Clémence Leyrat",
+            "Anne Mea Spanjaart",
+            "et al."
+        ]
+    },
+    {
+        "article": "Brightest Cluster Galaxy ellipticity as proxy for halo shape: Orientation bias, assembly bias, and potential selection effects in SZ-selected clusters",
+        "authors": [
+            "Radhakrishnan Srinivasan",
+            "Tae-Hyeon Shin",
+            "Anja von der Linden",
+            "Ricardo Herbonnet",
+            "Matthias Klein",
+            "et al."
+        ]
+    },
+    {
+        "article": "Aaij, C",
+        "authors": [
+            "R"
+        ]
+    },
+    {
+        "article": "Search for $B_{(s)}^{*0}\\to\\mu^+\\mu^-$ in $B_c^+\\to\\pi^+\\mu^+\\mu^-$ decays",
+        "authors": [
+            "Roel Aaij",
+            "Ahmed Sameh Wagih Abdelmotteleb",
+            "Carlos Abellan Beteta",
+            "Fernando Jesus Abudinén",
+            "Thomas Ackernley",
+            "et al."
+        ]
+    },
+    {
+        "article": "Angular analysis of the $B^+\\toπ^+μ^+μ^-$ decay",
+        "authors": [
+            "Roel Aaij",
+            "Mohammed Abdelfatah",
+            "Ahmed Sameh Wagih Abdelmotteleb",
+            "Carlos Abellan Beteta",
+            "Fernando Jesus Abudinén",
+            "et al."
+        ]
+    },
+    {
+        "article": "Probing the nature of the $\\chi_{c1}(3872)$ state using radiative decays",
+        "authors": [
+            "Roel Aaij",
+            "Ahmed Sameh Wagih Abdelmotteleb",
+            "Carlos Abellan Beteta",
+            "Fernando Jesus Abudinén",
+            "Thomas Ackernley",
+            "et al."
+        ]
+    },
+    {
+        "article": "Central exclusive production of $J/\\psi$ and $\\psi(2S)$ mesons in $pp$ collisions at $\\sqrt{s}=13~$TeV",
+        "authors": [
+            "Roel Aaij",
+            "Bernardo Adeva",
+            "Marco Adinolfi",
+            "Christine Angela Aidala",
+            "Ziad Ajaltouni",
+            "et al."
+        ]
+    },
+    {
+        "article": "Measurement of the Lifetime of the Doubly Charmed Baryon $\\Xi_{cc}^{++}$",
+        "authors": [
+            "Roel Aaij",
+            "Bernardo Adeva",
+            "Marco Adinolfi",
+            "Christine Angela Aidala",
+            "Ziad Ajaltouni",
+            "et al."
+        ]
+    },
+    {
+        "article": "Measurement of the prompt $D^0$ nuclear modification factor in $p$Pb collisions at $\\sqrt{s_\\mathrm{NN}} = 8.16$ TeV",
+        "authors": [
+            "Roel Aaij",
+            "Ahmed Sameh Wagih Abdelmotteleb",
+            "Carlos Abellan Beteta",
+            "Fernando Jesus Abudinén",
+            "Thomas Ackernley",
+            "et al."
+        ]
+    },
+    {
+        "article": "Measurement of the $\\psi(2S)$ to $J/\\psi$ cross-section ratio as a function of centrality in PbPb collisions at $\\sqrt{s_{\\text{NN}}}$ = 5.02 TeV",
+        "authors": [
+            "Roel Aaij",
+            "Ahmed Sameh Wagih Abdelmotteleb",
+            "Carlos Abellan Beteta",
+            "Fernando Jesus Abudinén",
+            "Thomas Ackernley",
+            "et al."
+        ]
+    },
+    {
+        "article": "Test of lepton flavour universality with $B^+ \\to K^+\\pi^+\\pi^-\\ell^+\\ell^-$ decays",
+        "authors": [
+            "Roel Aaij",
+            "Ahmed Sameh Wagih Abdelmotteleb",
+            "Carlos Abellan Beteta",
+            "Fernando Jesus Abudinén",
+            "Thomas Ackernley",
+            "et al."
+        ]
+    },
+    {
+        "article": "Search for the decays $B_{(s)}^0\\to J/ψγ$ at LHCb",
+        "authors": [
+            "Roel Aaij",
+            "Mohammed Abdelfatah",
+            "Ahmed Sameh Wagih Abdelmotteleb",
+            "Carlos Abellan Beteta",
+            "Fernando Jesus Abudinén",
+            "et al."
+        ]
+    },
+    {
+        "article": "Study of the $B^0 \\to Λ_c^+ \\barΛ_c^- K_S^0$ decay",
+        "authors": [
+            "Roel Aaij",
+            "Mohammed Abdelfatah",
+            "Ahmed Sameh Wagih Abdelmotteleb",
+            "Carlos Abellan Beteta",
+            "Fernando Jesus Abudinén",
+            "et al."
+        ]
+    },
+    {
+        "article": "Measurement of $C\\!P$ violation observables in $D^+\\rightarrow K^-K^+\\pi^+$ decays",
+        "authors": [
+            "Roel Aaij",
+            "Ahmed Sameh Wagih Abdelmotteleb",
+            "Carlos Abellan Beteta",
+            "Fernando Jesus Abudinén",
+            "Thomas Ackernley",
+            "et al."
+        ]
+    },
+    {
+        "article": "Test of lepton flavour universality with $B_s^0 \\rightarrow \\phi \\ell^+\\ell^-$ decays",
+        "authors": [
+            "Roel Aaij",
+            "Ahmed Sameh Wagih Abdelmotteleb",
+            "Carlos Abellan Beteta",
+            "Fernando Jesus Abudinén",
+            "Thomas Ackernley",
+            "et al."
+        ]
+    },
+    {
+        "article": "Measurement of the branching fraction ratio $R_K$ at large dilepton invariant mass",
+        "authors": [
+            "Roel Aaij",
+            "Ahmed Sameh Wagih Abdelmotteleb",
+            "Carlos Abellan Beteta",
+            "Fernando Jesus Abudinén",
+            "Thomas Ackernley",
+            "et al."
+        ]
+    },
+    {
+        "article": "Evidence for $B^-\\rightarrow D^{**0}\\tau^-\\overline{\\nu_{\\tau}}$ decays",
+        "authors": [
+            "Roel Aaij",
+            "Ahmed Sameh Wagih Abdelmotteleb",
+            "Carlos Abellan Beteta",
+            "Fernando Jesus Abudinén",
+            "Thomas Ackernley",
+            "et al."
+        ]
+    },
+    {
+        "article": "Search for resonance-enhanced $CP$ and angular asymmetries in the $\\Lambda^+_{c}\\to p\\mu^+\\mu^-$ decay at LHCb",
+        "authors": [
+            "Roel Aaij",
+            "Ahmed Sameh Wagih Abdelmotteleb",
+            "Carlos Abellan Beteta",
+            "Fernando Jesus Abudinén",
+            "Thomas Ackernley",
+            "et al."
+        ]
+    },
+    {
+        "article": "Observation of the $\\Lambda_b^0 \\to J/\\psi \\Xi^- K^+$ and $\\Xi_b^0 \\to J/\\psi \\Xi^- \\pi^+$ decays",
+        "authors": [
+            "Roel Aaij",
+            "Ahmed Sameh Wagih Abdelmotteleb",
+            "Carlos Abellan Beteta",
+            "Fernando Jesus Abudinén",
+            "Thomas Ackernley",
+            "et al."
+        ]
+    },
+    {
+        "article": "First measurement of $b$-jet mass with and without grooming",
+        "authors": [
+            "Roel Aaij",
+            "Ahmed Sameh Wagih Abdelmotteleb",
+            "Carlos Abellan Beteta",
+            "Fernando Jesus Abudinén",
+            "Thomas Ackernley",
+            "et al."
+        ]
+    },
+    {
+        "article": "Digital technologies for forest fire suppression: an applied step in means management",
+        "authors": [
+            "Yves Dumond"
+        ]
+    },
+    {
+        "article": "Formal specification of topology computation in a national EHV grid",
+        "authors": [
+            "Yves Dumond"
+        ]
+    },
+    {
+        "article": "L'outil de SITAC Asphodèle en zone Sud",
+        "authors": [
+            "Yves Dumond",
+            "Estelle Eléna",
+            "Frédéric Gosse"
+        ]
+    },
+    {
+        "article": "Démarches applicatives par les objets dans la conception de systèmes de commandes de procédés industriels",
+        "authors": [
+            "Yves Dumond"
+        ]
+    },
+    {
+        "article": "Combining shape-based and raster-based approaches for forest fires simulation",
+        "authors": [
+            "Yves Dumond"
+        ]
+    },
+    {
+        "article": "Forest fire spread modelling: a practical GIS-based approach",
+        "authors": [
+            "Yves Dumond"
+        ]
+    },
+    {
+        "article": "Modelling the fight against forest fires by means of a numerical battlefield",
+        "authors": [
+            "Yves Dumond"
+        ]
+    },
+    {
+        "article": "Formal specification of a multi-agent system architecture for manufacture: the contribution of the pi-calculus",
+        "authors": [
+            "Yves Dumond",
+            "Christophe Roche"
+        ]
+    },
+    {
+        "article": "A Multi-Agent System Architecture for manufacture: A formal specification with the pi-calculus",
+        "authors": [
+            "Yves Dumond",
+            "Christophe Roche"
+        ]
+    },
+    {
+        "article": "Implementing a reflective concurrent object-oriented architecture with the pi-calculus",
+        "authors": [
+            "Yves Dumond",
+            "Christophe Roche",
+            "Arnaud Violland"
+        ]
+    },
+    {
+        "article": "Forest fire growth modelling with geographical information fusion",
+        "authors": [
+            "Yves Dumond"
+        ]
+    },
+    {
+        "article": "From concurrent engineering to collaborative engineering: an agent-oriented approach",
+        "authors": [
+            "Christophe Roche",
+            "Yves Dumond"
+        ]
+    },
+    {
+        "article": "BAAL: an agent-oriented language for modelling and simulation",
+        "authors": [
+            "Yves Dumond",
+            "Christophe Roche",
+            "Jean-Louis Etienne"
+        ]
+    },
+    {
+        "article": "Ontoreverse : mieux comprendre les logiciels pour réduire leurs coûts de maintenance",
+        "authors": [
+            "Isabelle Chaussod",
+            "Jf Falconnier",
+            "Françoise Deloule",
+            "Yves Dumond",
+            "Christophe Roche",
+            "et al."
+        ]
+    },
+    {
+        "article": "From forest firefighting doctrine to digital battlefield: a case study",
+        "authors": [
+            "Yves Dumond"
+        ]
+    },
+    {
+        "article": "Interleukin 17, a nitric oxide-producing cytokine with a peroxynitrite-independent inhibitory effect on proteoglycan synthesis.",
+        "authors": [
+            "Sandrine Pacquelet",
+            "Nathalie Presle",
+            "Christelle Boileau",
+            "Hélène Dumond",
+            "Patrick Netter",
+            "et al."
+        ]
+    },
+    {
+        "article": "An applied step in forest fire spread modelling",
+        "authors": [
+            "Yves Dumond"
+        ]
+    },
+    {
+        "article": "Une démarche ontoterminologique pour la rétro-ingénierie de logiciels",
+        "authors": [
+            "Françoise Deloule",
+            "Yves Dumond",
+            "Christophe Roche",
+            "Philippe Dugerdil",
+            "Eric Harth",
+            "et al."
+        ]
+    },
+    {
+        "article": "Handling back fire in forest fire spread modelling",
+        "authors": [
+            "Yves Dumond"
+        ]
+    },
+    {
+        "article": "Enhancing the accuracy of raster-based algorithms for forest fire spread modelling",
+        "authors": [
+            "Yves Dumond"
+        ]
+    },
+    {
+        "article": "Modelling fire fighters actions in a forest fire simulation algorithm",
+        "authors": [
+            "Yves Dumond"
+        ]
+    },
+    {
+        "article": "Forest Fire Spread Modelling In Practice",
+        "authors": [
+            "Yves Dumond"
+        ]
+    },
+    {
+        "article": "Modelling enterprise using concurrent engineering paradigms",
+        "authors": [
+            "Christophe Roche",
+            "Yves Dumond",
+            "Jean-Charles Marty",
+            "Jean-Charles Profizi"
+        ]
+    },
+    {
+        "article": "Spécification en pi-calcul de l'étude de cas relative au contrôle d'accès",
+        "authors": [
+            "Noël Bernard",
+            "Yves Dumond"
+        ]
+    },
+    {
+        "article": "Reification of substitutions in the asynchronous pi-calculus",
+        "authors": [
+            "Noël Bernard",
+            "Yves Dumond"
+        ]
+    },
+    {
+        "article": "Application of Graph transformations to declarative knowledge bases",
+        "authors": [
+            "Christophe Roche",
+            "Yves Dumond",
+            "Gérard Lopez"
+        ]
+    },
+    {
+        "article": "Asphodèle : un logiciel “orienté-métier” pour la lutte contre les incendies de forêts",
+        "authors": [
+            "Yves Dumond",
+            "Stéphane Garitat",
+            "Frédéric Gosse",
+            "Eric Michelis",
+            "Philippe Simonpieri",
+            "et al."
+        ]
+    },
+    {
+        "article": "S’arracher à l’attraction archétypale : le cas d’un hôpital d’instruction des armées",
+        "authors": [
+            "Isabelle Vandangeon-Derumez",
+            "Gérard Koenig",
+            "Jean-Paul Dumond",
+            "Yves Auroy",
+            "Marie-Claire Martyré"
+        ]
+    },
+    {
+        "article": "Dumond, N",
+        "authors": [
+            "H"
+        ]
+    },
+    {
+        "article": "Mullerian inhibiting substance in the caudate amphibian pleurodeles waltl",
+        "authors": [
+            "Imane Al-Asaad",
+            "Dominique Chardard",
+            "Nathalie Di Clemente",
+            "Jean-Yves Picard",
+            "Hélène Dumond",
+            "et al."
+        ]
+    },
+    {
+        "article": "Matthieu d'Arras et l'Alsace",
+        "authors": [
+            "Yves Gallet"
+        ]
+    },
+    {
+        "article": "Formal Analysis of the Wnt/β-catenin through Statistical Model Checking",
+        "authors": [
+            "Paolo Ballarini",
+            "Emmanuelle Gallet",
+            "Pascale Le Gall",
+            "Matthieu Manceny"
+        ]
+    },
+    {
+        "article": "« Prague 1356 : Peter Parler versus Matthieu d’Arras ? Nouvelles perspectives sur les transferts artistiques et les débuts du gothique tardif en Europe centrale »",
+        "authors": [
+            "Yves Gallet"
+        ]
+    },
+    {
+        "article": "The cellular homeostasis of the gut: what the Drosophila model points out",
+        "authors": [
+            "Matthieu y Pasco",
+            "Rihab Loudhaief",
+            "Armel Gallet"
+        ]
+    },
+    {
+        "article": "Non-clairvoyant Scheduling of Multiple Bag-of-Tasks Applications",
+        "authors": [
+            "Henri Casanova",
+            "Matthieu Gallet",
+            "Frédéric Vivien"
+        ]
+    },
+    {
+        "article": "L’escalier d’Ulrich von Ensingen à la cathédrale de Strasbourg et ses rapports avec l’œuvre de Matthieu d’Arras à la cathédrale de Prague",
+        "authors": [
+            "Yves Gallet"
+        ]
+    },
+    {
+        "article": "Autoportrait et représentation de soi au Moyen Âge : le cas de Matthieu d’Arras à la cathédrale de Prague",
+        "authors": [
+            "Yves Gallet"
+        ]
+    },
+    {
+        "article": "Scheduling communication requests traversing a switch: complexity and algorithms.",
+        "authors": [
+            "Matthieu Gallet",
+            "Yves Robert",
+            "Frédéric Vivien"
+        ]
+    },
+    {
+        "article": "Divisible load scheduling",
+        "authors": [
+            "Matthieu Gallet",
+            "Yves Robert",
+            "Frédéric Vivien"
+        ]
+    },
+    {
+        "article": "Scheduling communication requests traversing a switch: complexity and algorithms",
+        "authors": [
+            "Matthieu Gallet",
+            "Yves Robert",
+            "Frédéric Vivien"
+        ]
+    },
+    {
+        "article": "Scheduling multiple divisible loads on a linear processor network",
+        "authors": [
+            "Matthieu Gallet",
+            "Yves Robert",
+            "Frédéric Vivien"
+        ]
+    },
+    {
+        "article": "Allocating Series of Workflows on Computing Grids",
+        "authors": [
+            "Matthieu Gallet",
+            "Loris Marchal",
+            "Frédéric Vivien"
+        ]
+    },
+    {
+        "article": "Influence of temperature and dose rate on radiation-induced attenuation at 1542 nm in fluorine-doped fibers",
+        "authors": [
+            "Antoine Gallet",
+            "Matthieu Caussanel",
+            "Olivier Gilard",
+            "Hervé Duval",
+            "Julien Eynard",
+            "et al."
+        ]
+    },
+    {
+        "article": "Scheduling complex streaming applications on the Cell processor",
+        "authors": [
+            "Matthieu Gallet",
+            "Mathias Jacquelin",
+            "Loris Marchal"
+        ]
+    },
+    {
+        "article": "Efficient Scheduling of Task Graph Collections on Heterogeneous Resources",
+        "authors": [
+            "Matthieu Gallet",
+            "Loris Marchal",
+            "Frédéric Vivien"
+        ]
+    },
+    {
+        "article": "Novel methodology for interpolation of radiation-induced attenuation in optical fibers",
+        "authors": [
+            "Antoine Gallet",
+            "Matthieu Caussanel",
+            "Olivier Gilard",
+            "Hervé Duval",
+            "Julien Eynard",
+            "et al."
+        ]
+    },
+    {
+        "article": "Comments on ''Design and performance evaluation of load distribution strategies for multiple loads on heterogeneous linear daisy chain networks''",
+        "authors": [
+            "Matthieu Gallet",
+            "Yves Robert",
+            "Frédéric Vivien"
+        ]
+    },
+    {
+        "article": "ATTÉNUATION RADIO-INDUITE DE FIBRES DOPÉES ALUMINIUM IRRADIÉES AUX RAYONS GAMMA",
+        "authors": [
+            "Antoine Gallet",
+            "Matthieu Caussanel",
+            "Hervé Duval",
+            "Kadar Mahamoud Djama",
+            "Stéphane Thil",
+            "et al."
+        ]
+    },
+    {
+        "article": "CR-LIBM A library of correctly rounded elementary functions in double-precision",
+        "authors": [
+            "Catherine Daramy-Loirat",
+            "David Defour",
+            "Florent de Dinechin",
+            "Matthieu Gallet",
+            "Nicolas Gast",
+            "et al."
+        ]
+    },
+    {
+        "article": "Investigation of aluminum doped and aluminum thulium co-doped optical fibers for gamma radiation measurements",
+        "authors": [
+            "Antoine Gallet",
+            "Matthieu Caussanel",
+            "Hervé Duval",
+            "Kadar Mahamoud Djama",
+            "Stéphane Thil",
+            "et al."
+        ]
+    },
+    {
+        "article": "Comments on \"Design and performance evaluation of load distribution strategies for multiple loads on heterogeneous linear daisy chain networks''",
+        "authors": [
+            "Matthieu Gallet",
+            "Yves Robert",
+            "Frédéric Vivien"
+        ]
+    },
+    {
+        "article": "Radiation-induced attenuation in aluminum- and aluminum-thulium-doped optical fibers",
+        "authors": [
+            "Antoine Gallet",
+            "Matthieu Caussanel",
+            "Hervé Duval",
+            "Kadar Mahamoud Djama",
+            "Stéphane Thil",
+            "et al."
+        ]
+    },
+    {
+        "article": "Computed tomography for transcatheter tricuspid valve development",
+        "authors": [
+            "Paul-Matthieu Chiaroni",
+            "Julien Ternacle",
+            "Jean-François Deux",
+            "Madjid Boukantar",
+            "Gauthier Mouillet",
+            "et al."
+        ]
+    },
+    {
+        "article": "Bacillus thuringiensis Bioinsecticides Induce Developmental Defects in Non-Target Drosophila melanogaster Larvae",
+        "authors": [
+            "Marie-Paule Nawrot-Esposito",
+            "Aurélie Babin",
+            "Matthieu Pasco",
+            "Marylène Poirié",
+            "Jean-Luc Gatti",
+            "et al."
+        ]
+    },
+    {
+        "article": "Bacillus thuringiensis var",
+        "authors": [
+            "Marie-Paule Nawrot-Esposito",
+            "Aurélie Babin",
+            "Matthieu Pasco",
+            "Marylène Poirie",
+            "Jean-Luc Gatti",
+            "et al."
+        ]
+    },
+    {
+        "article": "Computing the throughput of replicated workflows on heterogeneous platforms",
+        "authors": [
+            "Matthieu Gallet",
+            "Anne Benoit",
+            "Yves Robert",
+            "Bruno Gaujal"
+        ]
+    },
+    {
+        "article": "Lesturgie",
+        "authors": [
+            "Franck Daout",
+            "Guillaume Ginolhac",
+            "Françoise Schmitt",
+            "M"
+        ]
+    },
+    {
+        "article": "Gounon, S",
+        "authors": [
+            "Guillaume Ginolhac",
+            "P"
+        ]
+    },
+    {
+        "article": "Narrowband Multistatic Imagery",
+        "authors": [
+            "Guillaume Ginolhac",
+            "Françoise Schmitt",
+            "Franck Daout",
+            "Philippe Forster"
+        ]
+    },
+    {
+        "article": "Imagerie d'objets mobiles à l'aide d'un radar bande étroite multistatique",
+        "authors": [
+            "Guillaume Ginolhac",
+            "Franck Daout",
+            "Françoise Schmitt"
+        ]
+    },
+    {
+        "article": "Durand, L",
+        "authors": [
+            "R"
+        ]
+    },
+    {
+        "article": "Hory",
+        "authors": [
+            "Guillaume Ginolhac",
+            "Jocelyn Chanussot",
+            "C"
+        ]
+    },
+    {
+        "article": "Gounon, A",
+        "authors": [
+            "Guillaume Ginolhac",
+            "P"
+        ]
+    },
+    {
+        "article": "Narrowband Multistatic ISAR Imagery System..",
+        "authors": [
+            "Guillaume Ginolhac",
+            "Franck Daout",
+            "Françoise Schmitt"
+        ]
+    },
+    {
+        "article": "Computation of Bistatic SER with NEC2 in a Context of Passive ISAR System",
+        "authors": [
+            "Franck Daout",
+            "Françoise Schmitt",
+            "Guillaume Ginolhac",
+            "Philippe Forster"
+        ]
+    },
+    {
+        "article": "Durand, Guillaume Ginolhac, Philippe Forster, L",
+        "authors": [
+            "R"
+        ]
+    },
+    {
+        "article": "Durand, Guillaume Ginolhac, L",
+        "authors": [
+            "R"
+        ]
+    },
+    {
+        "article": "Detection of a target hidden in a forest: Performance of a SAR Processor based on a subspace detector",
+        "authors": [
+            "Rémi Durand",
+            "Guillaume Ginolhac",
+            "Philippe Forster",
+            "Laetitia Thirion"
+        ]
+    },
+    {
+        "article": "Random matrix theory applied to low rank STAP detection",
+        "authors": [
+            "Alice Combernoux",
+            "Frédéric Pascal",
+            "Guillaume Ginolhac",
+            "Marc Lesturgie"
+        ]
+    },
+    {
+        "article": "Une procédure générale d'estimation efficace de paramètres multiples avec application en localisation",
+        "authors": [
+            "Philippe Forster",
+            "Guillaume Ginolhac"
+        ]
+    },
+    {
+        "article": "Classification of Buried Objects From Ground Penetrating Radar Images by Using Second-Order Deep Learning Models",
+        "authors": [
+            "Douba Jafuno",
+            "Ammar Mian",
+            "Guillaume Ginolhac",
+            "Nickolas Stelzenmuller"
+        ]
+    },
+    {
+        "article": "Three-Mode Dataset Analysis Using Higher Order Subspace Method",
+        "authors": [
+            "Nicolas Le Bihan",
+            "Guillaume Ginolhac"
+        ]
+    },
+    {
+        "article": "Multivariate Change Detection on High Resolution Monovariate SAR Image Using Linear Time-Frequency Analysis",
+        "authors": [
+            "Ammar Mian",
+            "Jean-Philippe Ovarlez",
+            "Guillaume Ginolhac",
+            "A Atto"
+        ]
+    },
+    {
+        "article": "Détection de changement sur images SAR monovariées par analyse temps-fréquence linéaire",
+        "authors": [
+            "Ammar Mian",
+            "Jean-Philippe Ovarlez",
+            "Guillaume Ginolhac",
+            "Abdourrahmane Atto"
+        ]
+    },
+    {
+        "article": "New SAR processor based on a matched subspace detector",
+        "authors": [
+            "Rémi Durand",
+            "Guillaume Ginolhac",
+            "Laetitia Thirion",
+            "Philippe Forster"
+        ]
+    },
+    {
+        "article": "Palomar",
+        "authors": [
+            "Arnaud Breloy",
+            "Ying Sun",
+            "P Babu",
+            "Guillaume Ginolhac",
+            "Daniel P"
+        ]
+    },
+    {
+        "article": "Algorithmes spatio-temporels basés sur la méthode \"Principal Component Inverse\"\r\npour la détection en présence de réverbération",
+        "authors": [
+            "Guillaume Ginolhac",
+            "Geneviève Jourdain"
+        ]
+    },
+    {
+        "article": "Implementation and optimisation of a SAR processor based on a subspace detector",
+        "authors": [
+            "Rémi Durand",
+            "Guillaume Ginolhac",
+            "Philippe Forster",
+            "Laetitia Thirion"
+        ]
+    },
+    {
+        "article": "Nouvel algorithme d'inversion robuste pour le RADAR GPR",
+        "authors": [
+            "Matthieu Gallet",
+            "Ammar Mian",
+            "Guillaume Ginolhac",
+            "Nickolas Stelzenmuller"
+        ]
+    },
+    {
+        "article": "Detection of Swerling III-IV rank-one signals in Gaussian noise with unknown statistics",
+        "authors": [
+            "Eric Chaumette",
+            "François Vincent",
+            "Guillaume Ginolhac"
+        ]
+    },
+    {
+        "article": "N",
+        "authors": [
+            "Alexandre Hippert-Ferrer",
+            "M"
+        ]
+    },
+    {
+        "article": "Interaction protocol engineering",
+        "authors": [
+            "Marc-Philippe Huget",
+            "Jean-Luc Koning"
+        ]
+    },
+    {
+        "article": "Approach for Multi-Agent Metamodelling",
+        "authors": [
+            "Selma Azaiez",
+            "Marc-Philippe Huget",
+            "Flavio Oquendo"
+        ]
+    },
+    {
+        "article": "Engineering interaction protocols for multiagent systems",
+        "authors": [
+            "Marc-Philippe Huget",
+            "Jean-Luc Koning"
+        ]
+    },
+    {
+        "article": "Integrating OPC data into GSN infrastructures",
+        "authors": [
+            "Eric Benoit",
+            "Patrice Moreaux",
+            "Olivier Passalacqua",
+            "Marc-Philippe Huget"
+        ]
+    },
+    {
+        "article": "Azaiez, Georges Habchi, Marc-Philippe Huget, Magali Pralus, Jihène Tounsi",
+        "authors": [
+            "S"
+        ]
+    },
+    {
+        "article": "INTEGRATING OPC DATA INTO GSN INFRASTRUCTURES",
+        "authors": [
+            "Olivier Passalacqua",
+            "Eric Benoit",
+            "Marc-Philippe Huget",
+            "Patrice Moreaux"
+        ]
+    },
+    {
+        "article": "Application des SMA au Pilotage des Activités de Production",
+        "authors": [
+            "Selma Azaiez",
+            "Magali Pralus",
+            "Georges Habchi",
+            "Marc-Philippe Huget",
+            "Jihène Tounsi"
+        ]
+    },
+    {
+        "article": "Modélisation Système Multi-Agents (SMA) du processus de pilotage d'un système de fusion d'informations appliqué à un système de production",
+        "authors": [
+            "Georges Habchi",
+            "Magali Pralus",
+            "Selma Azaiez",
+            "Jihène Tounsi",
+            "Karim Tamani",
+            "et al."
+        ]
+    },
+    {
+        "article": "Ordonnancement parallèle de simulations orientes agent : Une approche basée sur l'analyse des dépendances temporelles des influences et perceptions",
+        "authors": [
+            "Nicolas Sébastien",
+            "Rémy Courdier",
+            "Didier Hoareau",
+            "Marc-Philippe Huget",
+            "Denis Payet"
+        ]
+    },
+    {
+        "article": "Analysis of temporal dependencies of perceptions and influences for the distributed execution of agent-oriented simulations",
+        "authors": [
+            "Nicolas Sébastien",
+            "Rémy Courdier",
+            "Didier Hoareau",
+            "Marc-Philippe Huget"
+        ]
+    },
+    {
+        "article": "Video conference smart room: an information fusion system based on distributed sensors",
+        "authors": [
+            "Khairunizam Wan",
+            "Atsushi Todo",
+            "Hideyuki Sawada",
+            "Olivier Passalacqua",
+            "Eric Benoit",
+            "et al."
+        ]
+    },
+    {
+        "article": "Recursive Multi-Agent System for Dynamic and Adaptative Web Services Composition,",
+        "authors": [
+            "Anissa Abrougui",
+            "Annabelle Mercier",
+            "Michel Occello",
+            "Marc-Philippe Huget"
+        ]
+    },
+    {
+        "article": "Reconfiguration of Distributed Information Fusion System – A case study",
+        "authors": [
+            "Eric Benoit",
+            "Marc-Philippe Huget",
+            "Patrice Moreaux",
+            "Olivier Passalacqua"
+        ]
+    },
+    {
+        "article": "Analyse des dépendances temporelles des influences et perceptions pour l’exécution distribuée de simulations orientées agent",
+        "authors": [
+            "Nicolas Sébastien",
+            "Rémy Courdier",
+            "Didier Hoareau",
+            "Marc-Philippe Huget"
+        ]
+    },
+    {
+        "article": "D'une Approche Composant vers une Approche Agent pour un Pilotage Optimisé des Systèmes de Production",
+        "authors": [
+            "Georges Habchi",
+            "Marc-Philippe Huget",
+            "Magali Pralus"
+        ]
+    },
+    {
+        "article": "Systèmes multi-agents : articulation entre l'individuel et le collectif - JFSMA 2006",
+        "authors": [
+            "Vincent Chevrier",
+            "Marc-Philippe Huget (Dir.)"
+        ]
+    },
+    {
+        "article": "Detection efficiency and spatial resolution of Monolithic Active Pixel Sensors bent to different radii",
+        "authors": [
+            "Anton Andronic",
+            "Pascal Becht",
+            "Mihail Bogdan Blidaru",
+            "Giuseppe Eugenio Bruno",
+            "Francesca Carnesecchi",
+            "et al."
+        ]
+    },
+    {
+        "article": "Digital Pixel Test Structures implemented in a 65 nm CMOS process",
+        "authors": [
+            "Gianluca Aglieri Rinella",
+            "Anton Andronic",
+            "Matias Antonelli",
+            "Mauro Aresti",
+            "Roberto Baccomi",
+            "et al."
+        ]
+    },
+    {
+        "article": "Further Characterisation of Digital Pixel Test Structures Implemented in a 65 nm CMOS Process",
+        "authors": [
+            "Gianluca Aglieri Rinella",
+            "Nicole Apadula",
+            "Anton Andronic",
+            "Matias Antonelli",
+            "Mauro Aresti",
+            "et al."
+        ]
+    },
+    {
+        "article": "Characterisation of analogue Monolithic Active Pixel Sensor test structures implemented in a 65 nm CMOS imaging process",
+        "authors": [
+            "Gianluca Aglieri Rinella",
+            "Giacomo Alocco",
+            "Matias Antonelli",
+            "Roberto Baccomi",
+            "Stefania Maria Beole",
+            "et al."
+        ]
+    },
+    {
+        "article": "CryoRhodopsins: a comprehensive characterization of a group of microbial rhodopsins from cold environments",
+        "authors": [
+            "Gerrit Lamm",
+            "Egor Marin",
+            "Alexey Alekseev",
+            "Anna Schellbach",
+            "Artem Stetsenko",
+            "et al."
+        ]
+    },
+    {
+        "article": "CryoRhodopsins: A comprehensive characterization of a group of microbial rhodopsins from cold environments",
+        "authors": [
+            "Gerrit Lamm",
+            "Egor Marin",
+            "Alexey Alekseev",
+            "Anna Schellbach",
+            "Artem Stetsenko",
+            "et al."
+        ]
+    },
+    {
+        "article": "Observation of medium-induced yield enhancement and acoplanarity broadening of low-$p_\\mathrm{T}$ jets from measurements in pp and central Pb$-$Pb collisions at $\\sqrt{s_{\\rm NN}}=5.02$ TeV",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "Neelima Agrawal",
+            "et al."
+        ]
+    },
+    {
+        "article": "Measurements of jet quenching using semi-inclusive hadron+jet distributions in pp and central Pb$-$Pb collisions at $\\sqrt{s_{\\rm NN}}=5.02$ TeV",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "Neelima Agrawal",
+            "et al."
+        ]
+    },
+    {
+        "article": "Measurements of long-range two-particle correlation over a wide pseudorapidity range in p$-$Pb collisions at $\\sqrt{s_{\\rm NN}}=5.0$ TeV",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "Neelima Agrawal",
+            "et al."
+        ]
+    },
+    {
+        "article": "Prompt and non-prompt J$/\\psi$ production at midrapidity in Pb$-$Pb collisions at $\\sqrt{s_{\\mathrm{NN}}}$ = 5.02 TeV",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "Neelima Agrawal",
+            "et al."
+        ]
+    },
+    {
+        "article": "Studying strangeness and baryon production mechanisms through angular correlations between charged $\\Xi$ baryons and identified hadrons in pp collisions at $\\sqrt{s}$ = 13 TeV",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "Neelima Agrawal",
+            "et al."
+        ]
+    },
+    {
+        "article": "Search for jet quenching effects in high-multiplicity pp collisions at $\\sqrt{s}$ = 13 TeV via di-jet acoplanarity",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "Neelima Agrawal",
+            "et al."
+        ]
+    },
+    {
+        "article": "Multiplicity and event-scale dependent flow and jet fragmentation in pp collisions at $\\sqrt{s}$ = 13 TeV and in p$-$Pb collisions at $\\sqrt{s_\\mathrm{NN}}$ = 5.02 TeV",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "Neelima Agrawal",
+            "et al."
+        ]
+    },
+    {
+        "article": "System size dependence of hadronic rescattering effect at LHC energies",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "Neelima Agrawal",
+            "et al."
+        ]
+    },
+    {
+        "article": "Dielectron production in central Pb$-$Pb collisions at $\\sqrt{s_\\mathrm{NN}}$ = 5.02 TeV",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "Neelima Agrawal",
+            "et al."
+        ]
+    },
+    {
+        "article": "Skewness and kurtosis of mean transverse momentum fluctuations at the LHC energies",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "Neelima Agrawal",
+            "et al."
+        ]
+    },
+    {
+        "article": "Probing the Chiral Magnetic Wave with charge-dependent flow measurements in Pb-Pb collisions at the LHC",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "Neelima Agrawal",
+            "et al."
+        ]
+    },
+    {
+        "article": "Measurement of the low-energy antitriton inelastic cross section",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Alexander Adler",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "et al."
+        ]
+    },
+    {
+        "article": "Measurements of inclusive J/$\\psi$ production at midrapidity and forward rapidity in Pb$-$Pb collisions at $\\sqrt{s_{\\mathrm{NN}}}$ = 5.02 TeV",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Alexander Adler",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "et al."
+        ]
+    },
+    {
+        "article": "Measurement of the angle between jet axes in Pb$-$Pb collisions at $\\sqrt{s_{\\rm NN}} = 5.02$ TeV",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Alexander Adler",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "et al."
+        ]
+    },
+    {
+        "article": "Accessing the strong interaction between $\\Lambda$ baryons and charged kaons with the femtoscopy technique at the LHC",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Alexander Adler",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "et al."
+        ]
+    },
+    {
+        "article": "Modification of charged-particle jets in event-shape engineered Pb$-$Pb collisions at $\\sqrt{s_{\\rm NN}} = 5$ TeV",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "Neelima Agrawal",
+            "et al."
+        ]
+    },
+    {
+        "article": "K$^{*}$(892)$^{\\pm}$ resonance production in Pb$-$Pb collisions at $\\sqrt{s_{\\rm NN}}$ = 5.02 TeV",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "Neelima Agrawal",
+            "et al."
+        ]
+    },
+    {
+        "article": "Charm production and fragmentation fractions at midrapidity in pp collisions at $\\sqrt{s} = 13$ TeV",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "Neelima Agrawal",
+            "et al."
+        ]
+    },
+    {
+        "article": "Measurements of azimuthal anisotropies at forward and backward rapidity with muons in high-multiplicity p–Pb collisions at sNN=8.16 TeV",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Alexander Adler",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "et al."
+        ]
+    },
+    {
+        "article": "Measurement of the $\\Lambda$ hyperon lifetime",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Alexander Adler",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "et al."
+        ]
+    },
+    {
+        "article": "Measurement of inclusive charged-particle jet production in pp and p-Pb collisions at $\\sqrt{s_{\\rm NN}}=5.02$ TeV",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Alexander Adler",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "et al."
+        ]
+    },
+    {
+        "article": "Exploring the strong interaction of three-body systems at the LHC",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "Neelima Agrawal",
+            "et al."
+        ]
+    },
+    {
+        "article": "Study of the p$-$p$-$K$^+$ and p$-$p$-$K$^-$ dynamics using the femtoscopy technique",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Alexander Adler",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "et al."
+        ]
+    },
+    {
+        "article": "First measurement of the $|t|$-dependence of incoherent J/$\\psi$ photonuclear production",
+        "authors": [
+            "Shreyasi Acharya",
+            "Dagmar Adamova",
+            "Alexander Adler",
+            "Gianluca Aglieri Rinella",
+            "Michelangelo Agnello",
+            "et al."
+        ]
+    },
+    {
+        "article": "Expectation-Maximization Based Direction of Arrival Estimation Under a Mixture of Noise",
+        "authors": [
+            "Yassine Mhiri",
+            "Mohammed Nabil El Korso",
+            "Lucien Bacharach",
+            "Arnaud Breloy",
+            "Pascal Larzabal"
+        ]
+    },
+    {
+        "article": "A Robust EM Algorithm for Radio Interferometric Imaging in The Presence of Outliers",
+        "authors": [
+            "Yassine Mhiri",
+            "Mohammed Nabil El Korso",
+            "Arnaud Breloy",
+            "Pascal Larzabal"
+        ]
+    },
+    {
+        "article": "Multifrequency array calibration in presence of radio frequency interferences",
+        "authors": [
+            "Yassine Mhiri",
+            "Mohammed Nabil El Korso",
+            "Arnaud Breloy",
+            "Pascal Larzabal"
+        ]
+    },
+    {
+        "article": "A Statistical Soft-DTW Similarity Based on the Wasserstein Distance",
+        "authors": [
+            "Matthieu Gallet",
+            "Yassine Mhiri"
+        ]
+    },
+    {
+        "article": "Unrolled Expectation Maximization for Sparse Radio Interferometric Imaging",
+        "authors": [
+            "Nawel Arab",
+            "Yassine Mhiri",
+            "Isabelle Vin",
+            "Mohammed Nabil El Korso",
+            "Pascal Larzabal"
+        ]
+    },
+    {
+        "article": "Regularized maximum likelihood estimation for radio interferometric imaging in the presence of radiofrequency interefences",
+        "authors": [
+            "Yassine Mhiri",
+            "Mohammed Nabil El Korso",
+            "Arnaud Breloy",
+            "Pascal Larzabal"
+        ]
+    },
+    {
+        "article": "Investigation of the Renal Protective Effect of Combined Dietary Polyphenols in Streptozotocin-Induced Diabetic Aged Rats",
+        "authors": [
+            "Yassine Chtourou",
+            "Maram Morjen",
+            "Rahma Ammar",
+            "Rania Mhiri",
+            "Mohamed Jemaà",
+            "et al."
+        ]
+    },
+    {
+        "article": "A channel-wise attention-based representation learning method for epileptic seizure detection and type classification",
+        "authors": [
+            "Asma Baghdadi",
+            "Rahma Fourati",
+            "Yassine Aribi",
+            "Sawsen Daoud",
+            "Mariem Dammak",
+            "et al."
+        ]
+    },
+    {
+        "article": "Hyperspectral signal reconstruction from interferometric measurements with enriched Fourier bases",
+        "authors": [
+            "Yassine Mhiri",
+            "Rémy Abergel",
+            "Andrés Almansa",
+            "Lionel Moisan"
+        ]
+    },
+    {
+        "article": "Algorithme SAGE pour la calibration robuste de radio-interféromètres en présence d'interférences",
+        "authors": [
+            "Yassine Mhiri",
+            "Mohammed-Nabil El Korso",
+            "Arnaud Breloy",
+            "Pascal Larzabal"
+        ]
+    },
+    {
+        "article": "Borne Barankin vs Borne Cramér-Rao pour la géométrie de réseaux d'antennes en radioastronomie",
+        "authors": [
+            "Jianhua Wang",
+            "Lucien Bacharach",
+            "Yassine Mhiri",
+            "Mohammed Nabil EL KORSO",
+            "Pascal Larzabal"
+        ]
+    },
+    {
+        "article": "Imagerie radio-interférométrique robuste par dépliement neuronal",
+        "authors": [
+            "Yassine Mhiri",
+            "Mohammed Nabil EL KORSO",
+            "Arnaud Breloy",
+            "Pascal Larzabal"
+        ]
+    },
+    {
+        "article": "Unrolled expectation maximization algorithm for radio interferometric imaging in presence of non gaussian interferences",
+        "authors": [
+            "Nawel Arab",
+            "Yassine Mhiri",
+            "Isabelle Vin",
+            "Mohammed Nabil El Korso",
+            "Pascal Larzabal"
+        ]
+    },
+    {
+        "article": "Contributions aux méthodes de calibration et d'imagerie pour les radio-interféromètres en présence d'interférences",
+        "authors": [
+            "Yassine Mhiri"
+        ]
+    },
+    {
+        "article": "Détection et Localisation des Fissures Volcaniques dans les Interférogrammes par IA",
+        "authors": [
+            "Thomas Petellat",
+            "Christophe Lin Kwong Chon",
+            "Yajing Yan",
+            "Ammar Mian"
+        ]
+    },
+    {
+        "article": "Buried Object Classification from GPR Data by using Second Order Deep Learning Models",
+        "authors": [
+            "Douba Jafuno",
+            "Ammar Mian",
+            "Guillaume Ginolhac",
+            "Nickolas Stelzenmuller"
+        ]
+    },
+    {
+        "article": "Classification of GPR Signals via Covariance Pooling on CNN Features within a Riemannian Framework",
+        "authors": [
+            "Matthieu Gallet",
+            "Ammar Mian",
+            "Guillaume Ginolhac",
+            "Nickolas Stelzenmuller"
+        ]
+    },
+    {
+        "article": "Classification d'objets enfouis par un modèle du second d'ordre en utilisant des données GPR",
+        "authors": [
+            "Douba Jafuno",
+            "Ammar Mian",
+            "Guillaume Ginolhac",
+            "Nickolas Stelzenmuller"
+        ]
+    },
+    {
+        "article": "Generalized Nonnegative Structured Kruskal Tensor Regression",
+        "authors": [
+            "Xinjue Wang",
+            "Esa Ollila",
+            "Sergiy Vorobyov",
+            "Ammar Mian"
+        ]
+    },
+    {
+        "article": "EFFECTS OF CLASS DISTRIBUTION SHIFT IN MULTI-LABEL CLASSIFICATION SPLITS: A STUDY CASE ON BIGEARTHNET",
+        "authors": [
+            "Matthieu Verlynde",
+            "Ammar Mian",
+            "Yajing Yan"
+        ]
+    },
+    {
+        "article": "A Robust Change Detector for Highly Heterogeneous Multivariate Images",
+        "authors": [
+            "Ammar Mian",
+            "Jean-Philippe Ovarlez",
+            "Guillaume Ginolhac",
+            "Abdourahmane M Atto"
+        ]
+    },
+    {
+        "article": "Détection de changements basée sur les covariances de séries d’images SAR",
+        "authors": [
+            "Ammar Mian",
+            "Arnaud Breloy",
+            "Frédéric Pascal"
+        ]
+    },
+    {
+        "article": "ARMAGNAC: A New Parametric Batch Normalization Layer for SPDNet Architecture",
+        "authors": [
+            "Matthieu Gallet",
+            "Florent Bouchard",
+            "Ammar Mian",
+            "Guillaume Ginolhac"
+        ]
+    },
+    {
+        "article": "Robust Detection and Estimation of Change-Points in a Time Series of Multivariate Images",
+        "authors": [
+            "Ammar Mian",
+            "Jean-Philippe Ovarlez",
+            "Guillaume Ginolhac",
+            "Abdourrahmane Atto"
+        ]
+    },
+    {
+        "article": "New Robust Statistics for Change Detection in Time Series of Multivariate SAR Images",
+        "authors": [
+            "Ammar Mian",
+            "Guillaume Ginolhac",
+            "Jean-Philippe Ovarlez",
+            "Abdourrahmane Atto"
+        ]
+    },
+    {
+        "article": "Détecteur de Rao robuste pour un sonar à croix de Mills",
+        "authors": [
+            "Olivier Lerda",
+            "Ammar Mian",
+            "Guillaume Ginolhac",
+            "Jean-Philippe Ovarlez"
+        ]
+    },
+    {
+        "article": "Random matrix theory improved Fréchet mean of symmetric positive definite matrices",
+        "authors": [
+            "Florent Bouchard",
+            "Ammar Mian",
+            "Malik Tiomoko",
+            "Guillaume Ginolhac",
+            "Frédéric Pascal"
+        ]
+    },
+    {
+        "article": "Online change detection in SAR time-series with Kronecker product structured scaled Gaussian models",
+        "authors": [
+            "Ammar Mian",
+            "Guillaume Ginolhac",
+            "Florent Bouchard",
+            "Arnaud Breloy"
+        ]
+    },
+    {
+        "article": "Riemannian classification of EEG signals with missing values",
+        "authors": [
+            "Alexandre Hippert-Ferrer",
+            "Ammar Mian",
+            "Florent Bouchard",
+            "Frédéric Pascal"
+        ]
+    },
+    {
+        "article": "Design of New Wavelet Packets Adapted to High-Resolution SAR Images With an Application to Target Detection",
+        "authors": [
+            "Ammar Mian",
+            "Jean-Philippe Ovarlez",
+            "Abdourrahmane Atto",
+            "Guillaume Ginolhac"
+        ]
+    },
+    {
+        "article": "Robust Detection for Mills Cross Sonar",
+        "authors": [
+            "Olivier Lerda",
+            "Ammar Mian",
+            "Guillaume Ginolhac",
+            "Jean-Philippe Ovarlez",
+            "Didier Charlot"
+        ]
+    },
+    {
+        "article": "On-line Kronecker Product Structured Covariance Estimation with Riemannian geometry for t-distributed data",
+        "authors": [
+            "Florent Bouchard",
+            "Arnaud Breloy",
+            "Ammar Mian",
+            "Guillaume Ginolhac"
+        ]
+    },
+    {
+        "article": "Riemannian geometry for compound Gaussian distributions: Application to recursive change detection",
+        "authors": [
+            "Florent Bouchard",
+            "Ammar Mian",
+            "Jialun Zhou",
+            "Salem Said",
+            "Guillaume Ginolhac",
+            "et al."
+        ]
+    },
+    {
+        "article": "Détection de Changement Robuste en Rang Faible pour les Séries Temporelles d'Images SAR",
+        "authors": [
+            "Ammar Mian",
+            "Arnaud Breloy",
+            "Guillaume Ginolhac",
+            "Jean-Philippe Ovarlez"
+        ]
+    },
+    {
+        "article": "New Robust Sparse Convolutional Coding Inversion Algorithm for Ground Penetrating Radar Images",
+        "authors": [
+            "Matthieu Gallet",
+            "Ammar Mian",
+            "Guillaume Ginolhac",
+            "Esa Ollila",
+            "Nickolas Stelzenmuller"
+        ]
+    },
+    {
+        "article": "Designing Sar Images Change-point Estimation Strategies Using an Mse Lower Bound",
+        "authors": [
+            "Ammar Mian",
+            "Lucien Bacharach",
+            "Guillaume Ginolhac",
+            "Alexandre Renaux",
+            "Mohammed Nabil El Korso",
+            "et al."
+        ]
+    },
+    {
+        "article": "Robust Low-rank Change Detection for SAR Image Time Series",
+        "authors": [
+            "Ammar Mian",
+            "Antoine Collas",
+            "Arnaud Breloy",
+            "Guillaume Ginolhac",
+            "Jean-Philippe Ovarlez"
+        ]
+    },
+    {
+        "article": "Detection Methods Based on Structured Covariance Matrices for Multivariate SAR Images Processing",
+        "authors": [
+            "Rayen Ben Abdallah",
+            "Ammar Mian",
+            "Arnaud Breloy",
+            "Abigaël Taylor",
+            "Mohammed Nabil El Korso",
+            "et al."
+        ]
+    },
+    {
+        "article": "A Comparative Study of Statistical-Based Change Detection Methods for Multidimensional and Multitemporal SAR Images",
+        "authors": [
+            "Ammar Mian",
+            "Frédéric Pascal"
+        ]
+    },
+    {
+        "article": "Les rapports entre figure et fond sur les couvertures des œuvres traduites de Blaise Cendrars",
+        "authors": [
+            "Bastien Mouchet"
+        ]
+    },
+    {
+        "article": "Comment le sociologue clinicien peut-il donner à voir le travail du Care ? L’expérimentation de l’instruction au sosie dans l’analyse de l’activité des auxiliaires de vie sociale",
+        "authors": [
+            "Bastien Pereira Besteiro"
+        ]
+    },
+    {
+        "article": "Impact of Coexistence Phenotype Between Staphylococcus aureus and Pseudomonas aeruginosa Isolates on Clinical Outcomes Among Cystic Fibrosis Patients",
+        "authors": [
+            "Paul Briaud",
+            "Sylvère Bastien",
+            "Laura Camus",
+            "Marie Boyadjian",
+            "Philippe Reix",
+            "et al."
+        ]
+    },
+    {
+        "article": "Industrial buildings as architectural monuments - A flimsy protection",
+        "authors": [
+            "Bastien Couturier",
+            "Vincent Veschambre",
+            "Florence Hachez-Leroy"
+        ]
+    },
+    {
+        "article": "Faire et défaire le patrimoine",
+        "authors": [
+            "Bastien Couturier"
+        ]
+    },
+    {
+        "article": "Infections bactériennes et interactions microbiennes : études « omiques » de Staphylococcus aureus et de Pseudomonas aeruginosa",
+        "authors": [
+            "Sylvère Bastien"
+        ]
+    },
+    {
+        "article": "Necrotizing Soft Tissue Infection Staphylococcus aureus but not S",
+        "authors": [
+            "Jessica Baude",
+            "Sylvère Bastien",
+            "Yves Gillet",
+            "Pascal Leblanc",
+            "Andreas Itzek",
+            "et al."
+        ]
+    },
+    {
+        "article": "Documentation et conservation de l’héritage postmoderne",
+        "authors": [
+            "Benjamin Chavardès",
+            "Audrey Courbebaisse",
+            "Léa-Catherine Szacka",
+            "Bastien Couturier",
+            "Maxime Coq",
+            "et al."
+        ]
+    },
+    {
+        "article": "Navratil, Frederic Cherqui, Philippe Namour, Jean-Luc Bertrand-Krajewski, et al.",
+        "authors": [
+            "Ilane Cherif",
+            "O"
+        ]
+    },
+    {
+        "article": "Le parcours usager des justiciables face aux aspects numériques des procédures judiciaires",
+        "authors": [
+            "Audrey Damiens",
+            "Stéphanie Mauclair",
+            "Vanessa Barbe",
+            "Charlotte Baron",
+            "Jimmy Bordarie",
+            "et al."
+        ]
+    },
+    {
+        "article": "From image to content",
+        "authors": [
+            "Jean-Yves Ramel"
+        ]
+    },
+    {
+        "article": "Un moteur d'appariement et transformation de sous-arbres pour la conception interactive de scénarios d'analyse d'images de documents",
+        "authors": [
+            "Pascal Bourquin",
+            "Jean-Yves Ramel"
+        ]
+    },
+    {
+        "article": "User specific parameters in one-class problems: the case of keystroke dynamics",
+        "authors": [
+            "Sylvain Hocquet",
+            "Jean-Yves Ramel",
+            "Hubert Cardot"
+        ]
+    },
+    {
+        "article": "Graph Signature: A Simple Approach for Clustering Similar Graph",
+        "authors": [
+            "Rashid-Jalal Qureshi",
+            "Jean-Yves Ramel",
+            "Hubert Cardot"
+        ]
+    },
+    {
+        "article": "Multivalent Graph Matching Problem Solved by Max-Min Ant System",
+        "authors": [
+            "Jean-Yves Ramel",
+            "Kieu Diem Ho",
+            "Jean Yves Ramel",
+            "Nicolas Monmarché"
+        ]
+    },
+    {
+        "article": "Authentification par la dynamique de frappe",
+        "authors": [
+            "Sylvain Hocquet",
+            "Jean-Yves Ramel",
+            "Hubert Cardot"
+        ]
+    },
+    {
+        "article": "Numérisation des livres : Bibliothèque du futur.",
+        "authors": [
+            "Jean-Yves Ramel"
+        ]
+    },
+    {
+        "article": "Reconnaissance de symboles graphiques à partir de graphes Etiquetés",
+        "authors": [
+            "Rashid-Jalal Qureshi",
+            "Jean-Yves Ramel",
+            "Hubert Cardot"
+        ]
+    },
+    {
+        "article": "Proposition pour la conception d'un systeme de segmentation interactif d'images 2D et 3D",
+        "authors": [
+            "Ludovic Paulhac",
+            "Jean-Yves Ramel",
+            "Tom Renard"
+        ]
+    },
+    {
+        "article": "Ho, N",
+        "authors": [
+            "Jean-Yves Ramel",
+            "D"
+        ]
+    },
+    {
+        "article": "Exploiting Document Image Analysis in the Humanities",
+        "authors": [
+            "Frédéric Rayar",
+            "Jean-Yves Ramel,",
+            "Rémi Jimenes"
+        ]
+    },
+    {
+        "article": "An efficient indexing scheme based on linked-node m-ary tree structure",
+        "authors": [
+            "The-Anh Pham",
+            "Sabine Barrat",
+            "Jean-Yves Ramel",
+            "Mathieu Delalandre"
+        ]
+    },
+    {
+        "article": "The use of linked-node m-ary tree structure for feature vector indexing",
+        "authors": [
+            "The-Anh Pham",
+            "Sabine Barrat",
+            "Mathieu Delalandre",
+            "Jean-Yves Ramel"
+        ]
+    },
+    {
+        "article": "Word spotting in historical documents using primitive codebook and dynamic programming",
+        "authors": [
+            "Partha Pratim Roy",
+            "Frédéric Rayar",
+            "Jean-Yves Ramel"
+        ]
+    },
+    {
+        "article": "A New One-class Classification Method Based on Symbolic Representation: Application to Document Classification",
+        "authors": [
+            "Fahimeh Alaei",
+            "Nathalie Girard",
+            "Sabine Barrat",
+            "Jean-Yves Ramel"
+        ]
+    },
+    {
+        "article": "Semantic and Interaction: When Document Image Analysis Meets Computer Vision and Machine Learning",
+        "authors": [
+            "Jean-Yves Ramel",
+            "Nicole Vincent"
+        ]
+    },
+    {
+        "article": "Apprentissage et exploitation d’un graphe topologique d’atlas probabilistes locaux pour la segmentation d’images IRM",
+        "authors": [
+            "Gaetan Galisot",
+            "Thierry Brouard",
+            "Jean-Yves Ramel"
+        ]
+    },
+    {
+        "article": "Tarafdar, Umapada Pal, Jean-Yves Ramel, Nicolas Ragot, B",
+        "authors": [
+            "A"
+        ]
+    },
+    {
+        "article": "Local probabilistic atlases and a posteriori correction for the segmentation of heart images",
+        "authors": [
+            "Gaetan Galisot",
+            "Thierry Brouard",
+            "Jean-Yves Ramel"
+        ]
+    },
+    {
+        "article": "Interactive definition and tuning of One-Class classifiers for Document Image Classification",
+        "authors": [
+            "Nathalie Girard",
+            "Roger Trullo",
+            "Sabine Barrat",
+            "Nicolas Ragot",
+            "Jean-Yves Ramel"
+        ]
+    },
+    {
+        "article": " Fast Nearest Neighbors Search in Graph Space based on a Branch-and-Bound Strategy",
+        "authors": [
+            "Zeina Abu-Aisheh",
+            "Romain Raveaux",
+            "Jean-Yves Ramel"
+        ]
+    },
+    {
+        "article": "Proceedings of the 12th IAPR-TC-15 International Workshop, GbRPR 2019",
+        "authors": [
+            "Donatello Conte",
+            "Jean-Yves Ramel",
+            "Pasquale Foggia (Dir.)"
+        ]
+    },
+    {
+        "article": "A Semi-automatic Groundtruthing Framework for Performance Evaluation of Symbol Recognition and Spotting Systems",
+        "authors": [
+            "Matthieu Delalandre",
+            "Jean-Yves Ramel",
+            "Nicolas Sidere"
+        ]
+    },
+    {
+        "article": "Estimation of user specific parameters in one-class problems",
+        "authors": [
+            "Sylvain Hocquet",
+            "Jean-Yves Ramel",
+            "Hubert Cardot"
+        ]
+    },
+    {
+        "article": "Procédé de reconnaissance de caractères",
+        "authors": [
+            "Stéphane Kernéis",
+            "Thierry Brouard",
+            "Jean-Yves Ramel",
+            "Clément Rouzières"
+        ]
+    },
+    {
+        "article": "A semi-automatic groundtruthing framework for performance evaluation of symbols recognition & spotting",
+        "authors": [
+            "Mathieu Delalandre",
+            "Jean-Yves Ramel",
+            "Nicolas Sidère"
+        ]
+    },
+    {
+        "article": "User Classification for Keystroke Dynamics Authentication",
+        "authors": [
+            "Sylvain Hocquet",
+            "Jean-Yves Ramel",
+            "Hubert Cardot"
+        ]
+    },
+    {
+        "article": "Graph Based Shapes Representation and Recognition",
+        "authors": [
+            "Rashid-Jalal Qureshi",
+            "Jean-Yves Ramel",
+            "Hubert Cardot"
+        ]
+    },
+    {
+        "article": "Flexible Sequence Matching Technique: Application to Word Spotting in Degraded Documents",
+        "authors": [
+            "Tanmoy Mondal",
+            "Nicolas Ragot",
+            "Jean-Yves Ramel",
+            "Umapada Pal"
+        ]
+    },
+    {
+        "article": "“Ils rugissent donc ils sont”, le combat animalier des statuaires Antoine-Louis Barye et Emmanuel Frémiet",
+        "authors": [
+            "Olivier Vayron"
+        ]
+    },
+    {
+        "article": "L'Affaire Deprat",
+        "authors": [
+            "Michel Durand-Delga"
+        ]
+    },
+    {
+        "article": "Mind the Gap ! Humour et exil de la mélancolie dans les essais et impressions de Sebald ",
+        "authors": [
+            "Emmanuel Bouju"
+        ]
+    },
+    {
+        "article": "Limoges, du 9 au 11 oct",
+        "authors": [
+            "Till Kuhnle"
+        ]
+    },
+    {
+        "article": "Application of MCDA methods for parameter setting support of an image processing system",
+        "authors": [
+            "Lionel Valet",
+            "Vincent Clivillé"
+        ]
+    },
+    {
+        "article": "Monotonic additive preference model for 3D fusion system parameters adjustment",
+        "authors": [
+            "Vincent Clivillé",
+            "Lionel Valet"
+        ]
+    },
+    {
+        "article": "Supply chain management by means of FLM-rules",
+        "authors": [
+            "Nicolas Le Normand",
+            "Julien Boissière",
+            "Nicolas Méger",
+            "Lionel Valet"
+        ]
+    },
+    {
+        "article": "An attribute fusion system based on the Choquet integral to evaluate the quality of composite parts",
+        "authors": [
+            "Sylvie Jullien",
+            "Lionel Valet",
+            "Gilles Mauris",
+            "Philippe Bolon",
+            "Sylvie Teyssier S."
+        ]
+    },
+    {
+        "article": "Règles de classification avec conjonction d'implications en prémisse",
+        "authors": [
+            "Lavinia Darlea",
+            "Sylvie Galichet",
+            "Lionel Valet"
+        ]
+    },
+    {
+        "article": "Classification rules with premise expressed as the conjunction of implications",
+        "authors": [
+            "Lavinia Darlea",
+            "Sylvie Galichet",
+            "Lionel Valet"
+        ]
+    },
+    {
+        "article": "Analyse et prétraitement d'un ensemble d'apprentissage dans le cadre d'un système coopératif de classification floue",
+        "authors": [
+            "Lavinia Darlea",
+            "Sylvie Galichet",
+            "Lionel Valet"
+        ]
+    },
+    {
+        "article": "Matching of multi-resolution image for remote sensing glacier detection",
+        "authors": [
+            "Ahmed Guermazi",
+            "Lionel Valet",
+            "Philippe Bolon"
+        ]
+    },
+    {
+        "article": "A statistical overview of recent literature in information fusion",
+        "authors": [
+            "Lionel Valet",
+            "Gilles Mauris",
+            "Philippe Bolon"
+        ]
+    },
+    {
+        "article": "A Fusion System for Tree Species Recognition through Leaves and Barks",
+        "authors": [
+            "Rihab Ben Ameur",
+            "Lionel Valet",
+            "Didier Coquin"
+        ]
+    },
+    {
+        "article": "Seismic Image Segmentation by Fuzzy Fusion of Attributes",
+        "authors": [
+            "Lionel Valet",
+            "Gilles Mauris",
+            "Philippe Bolon",
+            "Naamen Keskes"
+        ]
+    },
+    {
+        "article": "Towards the Supervision of a Fusion System for 3D Image Interpretation",
+        "authors": [
+            "Abdellah Lamallem",
+            "Lionel Valet",
+            "Didier Coquin"
+        ]
+    },
+    {
+        "article": "An information fusion approach for glacier mapping using multi-source remote sensing data",
+        "authors": [
+            "Ahmed Guermazi",
+            "Lionel Valet",
+            "Philippe Bolon"
+        ]
+    },
+    {
+        "article": "A fuzzy rule-based interactive fusion system for seismic data analysis",
+        "authors": [
+            "Lionel Valet",
+            "Gilles Mauris",
+            "Philippe Bolon",
+            "Naamen Keskes"
+        ]
+    },
+    {
+        "article": "A fuzzy linguistic-based software tool for seismic image interpretation",
+        "authors": [
+            "Lionel Valet",
+            "Gilles Mauris",
+            "Philippe Bolon",
+            "Naamen Keskes"
+        ]
+    },
+    {
+        "article": "Classification supervisée de données à l'aide de règles implicatives",
+        "authors": [
+            "Lavinia Darlea",
+            "Lionel Valet",
+            "Sylvie Galichet",
+            "Cristina Croitoru"
+        ]
+    },
+    {
+        "article": "de Vicente, Jaime Manera, Vincent Clivillé, Lionel Valet",
+        "authors": [
+            "Maria A"
+        ]
+    },
+    {
+        "article": "Application of quantitative MCDA methods for parameter setting support of an image processing system",
+        "authors": [
+            "Lionel Valet",
+            "Vincent Clivillé"
+        ]
+    },
+    {
+        "article": "De l’exécution distribuée des chaînes de traitements d’images à l’acquisition distribuée de connaissance par les traitements",
+        "authors": [
+            "Flavien Vernier"
+        ]
+    },
+    {
+        "article": "CAnDoR: Consistency Aware Dynamic data Replication",
+        "authors": [
+            "Etienne Mauffret",
+            "Flavien Vernier",
+            "Sébastien Monnet"
+        ]
+    },
+    {
+        "article": "A Federated Learning Framework for Wind Power Forecasting",
+        "authors": [
+            "Faiza Loukil",
+            "Youssef El-Kouch",
+            "Hervé Verjus",
+            "Flavien Vernier"
+        ]
+    },
+    {
+        "article": "AN OVERVIEW TO REMOTELY SENSED DISPLACEMENT MEASUREMENTS FUSION: CURRENT STATUS AND CHALLENGES",
+        "authors": [
+            "Yajing Yan",
+            "Amaury Dehecq",
+            "Emmanuel Trouvé",
+            "Gilles Mauris",
+            "Noel Gourmelen",
+            "et al."
+        ]
+    },
+    {
+        "article": "A Practical Approach of Diffusion Load Balancing Algorithms",
+        "authors": [
+            "Emmanuel Jeannot",
+            "Flavien Vernier"
+        ]
+    },
+    {
+        "article": "Bahi, Raphaël Couturier, Flavien Vernier",
+        "authors": [
+            "Jacques M"
+        ]
+    },
+    {
+        "article": "An Effective Approach for Home Services Management",
+        "authors": [
+            "Patrice Moreaux",
+            "Fabien Sartor",
+            "Flavien Vernier"
+        ]
+    },
+    {
+        "article": "Fusion of Remotely Sensed Displacement Measurements: Current status and challenges",
+        "authors": [
+            "Yajing Yan",
+            "Amaury Dehecq",
+            "Emmanuel Trouvé",
+            "Gilles Mauris",
+            "Noel Gourmelen",
+            "et al."
+        ]
+    },
+    {
+        "article": "Predicting Power Consumption Using Machine Learning Techniques",
+        "authors": [
+            "Zaid El Allal",
+            "Hassan Noura",
+            "Ola Salman",
+            "Flavien Vernier"
+        ]
+    },
+    {
+        "article": "Monitoring rock glacier by optical stereoscopic time-lapse device",
+        "authors": [
+            "Guilhem Marsy",
+            "Xavier Bodin",
+            "Emmanuel Malet",
+            "William Castaings",
+            "Flavien Vernier",
+            "et al."
+        ]
+    },
+    {
+        "article": "Temporal Consolidation Strategy for Ground Based Image Displacement Time Series",
+        "authors": [
+            "Guilhem Marsy",
+            "Flavien Vernier",
+            "Xavier Bodin",
+            "William Castaings",
+            "Emmanuel Trouve"
+        ]
+    },
+    {
+        "article": "Bahi, Sylvain Contassot-Vivier, Raphaël Couturier, Flavien Vernier",
+        "authors": [
+            "Jacques M"
+        ]
+    },
+    {
+        "article": "3D displacement retrieval on a scaled model of mountain slope by virtual multi-view photogrammetry",
+        "authors": [
+            "Haixing He",
+            "Flavien Vernier",
+            "Estelle Ployon",
+            "Thierry Villemin"
+        ]
+    },
+    {
+        "article": "Machine-Learning-Based Smart Energy Management Systems: A Review",
+        "authors": [
+            "Fatema El Husseini",
+            "Hassan Noura",
+            "Flavien Vernier"
+        ]
+    },
+    {
+        "article": "Local ensemble assimilation scheme with global constraints and conservation",
+        "authors": [
+            "Alexander Barth",
+            "Yajing Yan",
+            "Martin Canter",
+            "Aida Alvera-Azcárate",
+            "Jean-Marie Beckers"
+        ]
+    },
+    {
+        "article": "De la fusion à l'assimilation de mesures de déplacement issues d'imagerie SAR: Application à des modèles de déformation terrestre",
+        "authors": [
+            "Yajing Yan"
+        ]
+    },
+    {
+        "article": "Combinaison de modèle physique et données de télédétection pour améliorer la précision de l'information",
+        "authors": [
+            "Yajing Yan"
+        ]
+    },
+    {
+        "article": "EM-EOF: Gap-Filling in Incomplete SAR Displacement Time Series",
+        "authors": [
+            "Alexandre Hippert-Ferrer",
+            "Yajing Yan",
+            "Philippe Bolon"
+        ]
+    },
+    {
+        "article": "Gap-filling based on iterative EOF analysis of temporal covariance : application to InSAR displacement time series",
+        "authors": [
+            "Alexandre Hippert-Ferrer",
+            "Yajing Yan",
+            "Philippe Bolon"
+        ]
+    },
+    {
+        "article": "Gap-filling based on EOF analysis of spatio-temporal covariance of satellite image derived displacement time series",
+        "authors": [
+            "Alexandre Hippert-Ferrer",
+            "Yajing Yan",
+            "Philippe Bolon"
+        ]
+    },
+    {
+        "article": "Gap-filling of InSAR displacement time series",
+        "authors": [
+            "Alexandre Hippert-Ferrer",
+            "Yajing Yan",
+            "Philippe Bolon"
+        ]
+    },
+    {
+        "article": "Data assimilation: new perspective in displacement measurement by remote sensing",
+        "authors": [
+            "Yajing Yan"
+        ]
+    },
+    {
+        "article": "Extraction d'informations de déplacement à partir de séries temporelles d'images SAR: Applications aux glaciers Alpins",
+        "authors": [
+            "Yajing Yan",
+            "Emmanuel Trouvé",
+            "Rémi Prebet",
+            "Matthias Jauvin"
+        ]
+    },
+    {
+        "article": "Ge, Z",
+        "authors": [
+            "W"
+        ]
+    },
+    {
+        "article": "Reconstruction de données manquantes par analyse en EOF : application aux séries temporelles de mesures de déplacement InSAR",
+        "authors": [
+            "Alexandre Hippert-Ferrer",
+            "Yajing Yan",
+            "Philippe Bolon"
+        ]
+    },
+    {
+        "article": "Potential and limits of Sentinel-1 data for small Alpine glaciers monitoring",
+        "authors": [
+            "Matthias Jauvin",
+            "Yajing Yan",
+            "Emmanuel Trouvé",
+            "Bénédicte Fruneau"
+        ]
+    },
+    {
+        "article": "Inversion et assimilation de données de télédétection",
+        "authors": [
+            "Yajing Yan"
+        ]
+    },
+    {
+        "article": "SAR Offset Tracking",
+        "authors": [
+            "Silvan Leinss",
+            "Shiyi Li",
+            "Yajing Yan",
+            "Bas Altena"
+        ]
+    },
+    {
+        "article": "Combined use of spaceborne SAR interferometry and in-situ measurements for glacier monitoring in mountain areas",
+        "authors": [
+            "Matthias Jauvin",
+            "Yajing Yan",
+            "Emmanuel Trouvé",
+            "Bénédicte Fruneau",
+            "Rémi Prebet"
+        ]
+    },
+    {
+        "article": "A gap-filling method to reconstruct incomplete SAR displacement measurement time series",
+        "authors": [
+            "Alexandre Hippert-Ferrer",
+            "Yajing Yan",
+            "Philippe Bolon"
+        ]
+    },
+    {
+        "article": "Bauer, T",
+        "authors": [
+            "E"
+        ]
+    },
+    {
+        "article": "Yan, Hang Nguyen, G",
+        "authors": [
+            "Y"
+        ]
+    },
+    {
+        "article": "A DATA-ADAPTIVE EOF BASED METHOD FOR DISPLACEMENT SIGNAL EXTRACTION FROM INTERFEROGRAM TIME SERIES",
+        "authors": [
+            "Rémi Prebet",
+            "Yajing Yan",
+            "Matthias Jauvin",
+            "Emmanuel Trouvé"
+        ]
+    },
+    {
+        "article": "Comstock, B",
+        "authors": [
+            "Ken Yueh",
+            "R.J"
+        ]
+    },
+    {
+        "article": "Covariance Fitting Interferometric Phase Linking: Modular Framework and Optimization Algorithms",
+        "authors": [
+            "Phan Viet Hoa Vu",
+            "Arnaud Breloy",
+            "Frédéric Brigui",
+            "Yajing Yan",
+            "Guillaume Ginolhac"
+        ]
+    },
+    {
+        "article": "Combined use of Sentinel-1 A/B interferometry and corner reflectors for glacier and surrounding moraines monitoring in the Chamonix Valley (France)",
+        "authors": [
+            "Matthias Jauvin",
+            "Yajing Yan",
+            "Emmanuel Trouvé",
+            "Bénédicte Fruneau"
+        ]
+    },
+    {
+        "article": "Monitoring of moraine and glacier movements in the Chamonix Valley (France) by means of Sentinel-1 A/B  interferometry",
+        "authors": [
+            "Matthias Jauvin",
+            "Yajing Yan",
+            "Emmanuel Trouvé",
+            "Bénédicte Fruneau"
+        ]
+    },
+    {
+        "article": "First results of ground displacement monitoring in Paris with Sentinel-1 A/B time series",
+        "authors": [
+            "Matthias Jauvin",
+            "Yajing Yan",
+            "Bénédicte Fruneau",
+            "Emmanuel Trouvé"
+        ]
+    },
+    {
+        "article": "A Fuzzy Rule-Based Haptic Perception Model for Automotive Vibrotactile Display",
+        "authors": [
+            "Liviu-Cristian Dutu",
+            "Gilles Mauris",
+            "Philippe Bolon",
+            "Stéphanie Dabic",
+            "Jean-Marc Tissot"
+        ]
+    },
+    {
+        "article": "A Linear-Complexity Rule Base Generation Method for Fuzzy Systems",
+        "authors": [
+            "Liviu-Cristian Duţu",
+            "Gilles Mauris",
+            "Philippe Bolon"
+        ]
+    },
+    {
+        "article": "A Fast and Accurate Rule-Base Generation Method for Mamdani Fuzzy Systems",
+        "authors": [
+            "Liviu-Cristian Dutu",
+            "Gilles Mauris",
+            "Philippe Bolon"
+        ]
+    },
+    {
+        "article": "On mining pixel based evolution classes in satellite image time series",
+        "authors": [
+            "Andreea Julea",
+            "Nicolas Méger",
+            "Philippe Bolon"
+        ]
+    },
+    {
+        "article": "Toward a Type-Theoretical Approach for an Ontologically-Based Detection of Underground Networks",
+        "authors": [
+            "Meriem Hafsi",
+            "Richard Dapoigny",
+            "Philippe Bolon"
+        ]
+    },
+    {
+        "article": "A Fuzzy Rule-Based Model of Vibrotactile Perception via an Automobile Haptic Screen",
+        "authors": [
+            "Liviu-Cristian Dutu",
+            "Gilles Mauris",
+            "Philippe Bolon",
+            "Stéphanie Dabic",
+            "Jean-Marc Tissot"
+        ]
+    },
+    {
+        "article": "Détection automatique de canalisations enterrées par raisonnement sur des ontologies de domaine alimentées par des connaissances issues de mesures vibro- acoustiques",
+        "authors": [
+            "Meriem Hafsi",
+            "Richard Dapoigny",
+            "Philippe Bolon"
+        ]
+    },
+    {
+        "article": "MEGATOR : premiers résultats en photogrammétrie et interférométrie RSO",
+        "authors": [
+            "Emmanuel Trouvé",
+            "Michel Gay",
+            "Philippe Bolon",
+            "Gabriel Vasile",
+            "Jean-Marie Nicolas",
+            "et al."
+        ]
+    },
+    {
+        "article": "Un Modèle Psychophysique Flou pour l’Évaluation Hédonique de Signaux Vibrotactiles",
+        "authors": [
+            "Liviu-Cristian Dutu",
+            "Gilles Mauris",
+            "Philippe Bolon",
+            "Stéphanie Dabic",
+            "Jean-Marc Tissot"
+        ]
+    },
+    {
+        "article": "Detection and Localization of Underground Networks by Fusion of Electromagnetic Signal and GPR Images",
+        "authors": [
+            "Meriem Hafsi",
+            "Philippe Bolon",
+            "Richard Dapoigny"
+        ]
+    },
+    {
+        "article": "Simplified Model of Intercomprehension",
+        "authors": [
+            "Philippe Bolon"
+        ]
+    },
+    {
+        "article": "A Fuzzy Expert Model of Haptic Perception for Automobile Touch-Screen Displays",
+        "authors": [
+            "Liviu-Cristian Duţu",
+            "Gilles Mauris",
+            "Philippe Bolon",
+            "Jean-Marc Tissot"
+        ]
+    },
+    {
+        "article": "Radiometric evolution classification in high resolution satellite image time series SITS",
+        "authors": [
+            "Camille Le Men",
+            "Andreea Julea",
+            "Nicolas Méger",
+            "Mihai Datcu",
+            "Philippe Bolon",
+            "et al."
+        ]
+    },
+    {
+        "article": "Simulation of SAR Images and Radar Coding of Georeferenced Information for Temperate Glacier Monitoring,",
+        "authors": [
+            "Andréa Julea",
+            "Gabriel Vasile",
+            "Ivan Petillot",
+            "Emmanuel Trouvé",
+            "Michel Gay",
+            "et al."
+        ]
+    },
+    {
+        "article": "Fuzzy component network for intelligent measurement and control",
+        "authors": [
+            "Jean-François Josserand",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "An analytical method to improve the precision of a robot",
+        "authors": [
+            "Laurent Foulloy",
+            "Robert Kelley"
+        ]
+    },
+    {
+        "article": "A microprocessor based sonar sensor}",
+        "authors": [
+            "Gilles Mauris",
+            "Laurent Foulloy",
+            "Henri Clergeot"
+        ]
+    },
+    {
+        "article": "Indices de capabilité et distributions de possibilités",
+        "authors": [
+            "Laurent Foulloy",
+            "Gilles Mauris"
+        ]
+    },
+    {
+        "article": "Process Capability Indices based on Skewed Possibility Distributions for Drilling Operations",
+        "authors": [
+            "Laurent Foulloy",
+            "Gilles Mauris"
+        ]
+    },
+    {
+        "article": "Identification of Linguistic Fuzzy Models based on Learning",
+        "authors": [
+            "Yassar Nakoula",
+            "Sylvie Galichet",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Representation of Mamdani’s Controllers",
+        "authors": [
+            "Laurent Foulloy",
+            "Sylvie Galichet"
+        ]
+    },
+    {
+        "article": "Design and Implementation of a Fuzzy-Logic Controller for Brass Casting Control",
+        "authors": [
+            "Michel Dussud",
+            "Sylvie Galichet",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Classifications floues pour la reconnaissance des couleurs",
+        "authors": [
+            "Lotfi Khodja",
+            "Laurent Foulloy",
+            "Eric Benoit"
+        ]
+    },
+    {
+        "article": "Another Formulation of the Semantics of Fuzzy Rules",
+        "authors": [
+            "Laurent Foulloy",
+            "Sylvie Galichet"
+        ]
+    },
+    {
+        "article": "Fuzzy linguistic methods for the aggregation of complementary sensor information",
+        "authors": [
+            "Gilles Mauris",
+            "Eric Benoit",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Fuzzy Sensors for the Fusion of Information",
+        "authors": [
+            "Gilles Mauris",
+            "Eric Benoit",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Fuzzy clustering for color recognition application to image understanding",
+        "authors": [
+            "Lotfi Khodja",
+            "Laurent Foulloy",
+            "Eric Benoit"
+        ]
+    },
+    {
+        "article": "A fuzzy symbolic approach to formalize sensory measurements : an application to a comfort sensor",
+        "authors": [
+            "Gilles Mauris",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Contrôle qualitatif et contrôle flou : vers une méthode d’écriture des contrôleurs flous",
+        "authors": [
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "How a man and a laser can learn mutually",
+        "authors": [
+            "Bernard Burg",
+            "Edouard Lamotte",
+            "Laurent Foulloy",
+            "Bertrand Zavidovique"
+        ]
+    },
+    {
+        "article": "Fuzzy Implications Handling Fault Detection and Isolation Problems",
+        "authors": [
+            "Patrick Ripoll",
+            "Denis Caillet",
+            "Eric Benoit",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Diagnostic Algorithm applied to an Automotive Engine",
+        "authors": [
+            "Patrick Ripoll",
+            "Denis Caillet",
+            "Eric Benoit",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Logique floue",
+        "authors": [
+            "Laurent Foulloy",
+            "Titli André (Dir.)"
+        ]
+    },
+    {
+        "article": "Cellules floues : application à la commande floue distribuée",
+        "authors": [
+            "Jean-François Josserand",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Fuzzy Sensor for Fuzzy Control",
+        "authors": [
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Qualitative Control and Fuzzy Control : towards a writing methodology",
+        "authors": [
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Measurement Theory for Fuzzy Symbolic-Numeric Interfaces",
+        "authors": [
+            "Gilles Mauris",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Three stage algorithm for recognizing stable states and reorienting a workpiece",
+        "authors": [
+            "Walter Faedo",
+            "Laurent Foulloy",
+            "Robert Kelley"
+        ]
+    },
+    {
+        "article": "Using qualitative reasoning to write expert controllers",
+        "authors": [
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Représentation des contrôleurs flous",
+        "authors": [
+            "Laurent Foulloy",
+            "Sylvie Galichet"
+        ]
+    },
+    {
+        "article": "Fuzzy modelling of measurements acquired by an intelligent ultrasonic telemeter",
+        "authors": [
+            "Virginie Lasserre",
+            "Gilles Mauris",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Fuzzy Performance Indicators for Manufacturing Processes",
+        "authors": [
+            "Lamia Berrah",
+            "Gilles Mauris",
+            "Laurent Foulloy",
+            "Alain Haurat"
+        ]
+    },
+    {
+        "article": "Representing and approximating symmetric and asymmetric probability coverage intervals by possibility distributions",
+        "authors": [
+            "Gilles Mauris"
+        ]
+    },
+    {
+        "article": "An ultrasonic fuzzy sensor",
+        "authors": [
+            "Laurent Foulloy",
+            "Gilles Mauris"
+        ]
+    },
+    {
+        "article": "Measurement Theory considerations in Fuzzy Sensors",
+        "authors": [
+            "Gilles Mauris",
+            "Eric Benoit",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Local measurement validation for an intelligent telemeter",
+        "authors": [
+            "Gilles Mauris",
+            "Eric Benoit",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "A new transformation of continuous unimodal asymmetric probability distributions into possibility distributions",
+        "authors": [
+            "Laurent Foulloy",
+            "Gilles Mauris"
+        ]
+    },
+    {
+        "article": "A Simple Probability-Possibility Transformation for Measurement Error Representation : a Truncated Triangular Transformation",
+        "authors": [
+            "Virginie Lasserre",
+            "Gilles Mauris",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Revisiting some conventional statistical notions in the framework of possibility theory",
+        "authors": [
+            "Gilles Mauris"
+        ]
+    },
+    {
+        "article": "A Possibilistic View of Binomial Parameter Estimation",
+        "authors": [
+            "Gilles Mauris"
+        ]
+    },
+    {
+        "article": "Fuzzy Sensors: an overview",
+        "authors": [
+            "Gilles Mauris",
+            "Eric Benoit",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Fuzzy handling of measurement errors in instrumentation",
+        "authors": [
+            "Gilles Mauris",
+            "Lamia Berrah",
+            "Laurent Foulloy",
+            "Alain Haurat"
+        ]
+    },
+    {
+        "article": "Transformation possibiliste de lois de probabilités multi-variées elliptiques",
+        "authors": [
+            "Charles Lesniewska-Choquet",
+            "Abderrrahmane Atto",
+            "Gilles Mauris"
+        ]
+    },
+    {
+        "article": "Applications of fuzzy sensors",
+        "authors": [
+            "Laurent Foulloy",
+            "Eric Benoit",
+            "Gilles Mauris"
+        ]
+    },
+    {
+        "article": "An Intelligent Ultrasonic Range Finding Sensor for Robotics",
+        "authors": [
+            "Gilles Mauris",
+            "Eric Benoit",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "The aggregation of information by examples via fuzzy sensors",
+        "authors": [
+            "Gilles Mauris",
+            "Eric Benoit",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Fuzzy performance indicators for ski quality control",
+        "authors": [
+            "Lamia Berrah",
+            "Gilles Mauris",
+            "Alain Haurat",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "A Fuzzy Approach for the Validation of Performance Assessment in Ski Quality Control",
+        "authors": [
+            "Lamia Berrah",
+            "Gilles Mauris",
+            "Alain Haurat",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Expression of measurement uncertainty in a very limited knowledge context: a possibility theory-based approach",
+        "authors": [
+            "Gilles Mauris"
+        ]
+    },
+    {
+        "article": "A software tool for designing intelligent sensors",
+        "authors": [
+            "Eric Benoit",
+            "Johan Tailland",
+            "Laurent Foulloy",
+            "Gilles Mauris"
+        ]
+    },
+    {
+        "article": "A fuzzy approach for the expression of uncertainty in measurement",
+        "authors": [
+            "Gilles Mauris",
+            "Virginie Lasserre",
+            "Laurent Foulloy"
+        ]
+    },
+    {
+        "article": "Possibility/necessity semantics for the evaluation of the manufacturing processes performance",
+        "authors": [
+            "Lamia Berrah",
+            "Gilles Mauris",
+            "Laurent Foulloy",
+            "Alain Haurat"
+        ]
+    },
+    {
+        "article": "Proposition d'un modèle computationnel du concept pour la Terminologie",
+        "authors": [
+            "Julien Roche",
+            "Christophe Roche",
+            "Zhenling Zhang",
+            "Yangli Jia",
+            "Tong Wei"
+        ]
+    },
+    {
+        "article": "Term formation method for Chinese neoterm based on concept model and Chinese attribute-head construction",
+        "authors": [
+            "Zhenling Zhang",
+            "Christophe Roche",
+            "Yangli Jia",
+            "Julien Roche",
+            "Tong Wei"
+        ]
+    },
+    {
+        "article": "Ontological Knowledge Representation",
+        "authors": [
+            "Christophe Roche",
+            "Julien Roche",
+            "Françoise Deloule"
+        ]
+    },
+    {
+        "article": "Dynamic Modelling and Simulation of Information Systems using Multi-Agent Systems",
+        "authors": [
+            "Christophe Roche",
+            "Françoise Deloule",
+            "Jean-Charles Profizi"
+        ]
+    },
+    {
+        "article": "Ontology for Terminology: How to bring terminology to industrial applications in the digital world",
+        "authors": [
+            "Christophe Roche"
+        ]
+    },
+    {
+        "article": "Contribution of Ontology to Terminology",
+        "authors": [
+            "Christophe Roche"
+        ]
+    },
+    {
+        "article": "TOTh 2013, Terminology & Ontology : Theories and applications",
+        "authors": [
+            "Christophe Roche (Dir.)"
+        ]
+    },
+    {
+        "article": "Ontoterminolog for Negociation",
+        "authors": [
+            "Christophe Roche"
+        ]
+    },
+    {
+        "article": "TOTh 2016: Terminology & Ontology : Theories and applications",
+        "authors": [
+            "Christophe Roche (Dir.)"
+        ]
+    },
+    {
+        "article": "TOTh 2012: Terminology & Ontology : Theories and applications",
+        "authors": [
+            "Christophe Roche (Dir.)"
+        ]
+    },
+    {
+        "article": "TOTh 2017 -  Terminology & Ontology : Theories and applications",
+        "authors": [
+            "Christophe Roche (Dir.)"
+        ]
+    },
+    {
+        "article": "An Ontology-Oriented Approach for Multilingual Knowledge Sharing: the ASTECH Project",
+        "authors": [
+            "Christophe Roche"
+        ]
+    },
+    {
+        "article": "Structuring Humanities’ Data through Formal Domain Ontologies",
+        "authors": [
+            "Maria Papadopoulou",
+            "Christophe Roche"
+        ]
+    },
+    {
+        "article": "Ontologies et inter-opérabilité",
+        "authors": [
+            "Françoise Deloule",
+            "Christophe Roche"
+        ]
+    },
+    {
+        "article": "Ontologies and Knowledge Representation",
+        "authors": [
+            "Françoise Deloule",
+            "Christophe Roche"
+        ]
+    },
+    {
+        "article": "TOTh 2007 : Terminologie et Ontologie : Théories et Applications",
+        "authors": [
+            "Christophe Roche"
+        ]
+    },
+    {
+        "article": "Définition ontologique du terme",
+        "authors": [
+            "Christophe Roche",
+            "Maria Papadopoulou"
+        ]
+    },
+    {
+        "article": "Transparency of Chinese Acupuncture and Moxibustion Terms: A Resource for Scientific Research and Collaboration",
+        "authors": [
+            "Zhenling Zhang",
+            "Christophe Roche",
+            "Yangli Jia",
+            "Xuecheng Zhang",
+            "Julien Roche",
+            "et al."
+        ]
+    },
+    {
+        "article": "A generic-binary relation system for Knowledge-Based Systems",
+        "authors": [
+            "Christophe Roche",
+            "Françoise Deloule",
+            "Policastro Rodolphe"
+        ]
+    },
+    {
+        "article": "Conception d'une plateforme de gestion collective des idées innovantes: IM-Station",
+        "authors": [
+            "Françoise Deloule",
+            "Christophe Roche"
+        ]
+    },
+    {
+        "article": "RIO: a framework for ontological knowledge representation",
+        "authors": [
+            "Françoise Deloule",
+            "Jean-Charles Marty",
+            "Christophe Roche"
+        ]
+    },
+    {
+        "article": "Ni Ghallchobhair, Christophe Roche",
+        "authors": [
+            "F"
+        ]
+    },
+    {
+        "article": "Tedi: a platform for ontologisation of multilingual terminologies for the Semantic Web",
+        "authors": [
+            "Christophe Roche",
+            "Maria Papadopoulou"
+        ]
+    }
+]

@@ -1,11 +1,16 @@
 from selenium import webdriver
 from bs4 import BeautifulSoup
+from selenium.webdriver.edge.service import Service
+from selenium.webdriver.edge.options import Options
 import json
 import time
 
 url = "https://www.univ-smb.fr/listic/presentation/membres/enseignants-chercheurs/"
 
-driver = webdriver.Chrome()
+# driver = webdriver.Chrome()
+service = Service("msedgedriver.exe")
+options = Options()
+driver = webdriver.Edge(service=service, options=options)
 driver.get(url)
 
 time.sleep(2)  # attendre le chargement JS
