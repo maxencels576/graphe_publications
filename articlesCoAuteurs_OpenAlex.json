@@ -3150,12 +3150,18 @@
         ]
     },
     {
-        "article": "Heat and pH stability of prebiotic arabinoxylooligosaccharides, xylooligosaccharides and fructooligosaccharides",
+        "article": "Catalytic lignocellulose biorefining in <i>n</i>-butanol/water: a one-pot approach toward phenolics, polyols, and cellulose",
         "authors": [
+            "Tom Renders",
+            "E. Cooreman",
+            "Sander Van den Bosch",
+            "Wouter Schutyser",
+            "S.-F. Koelewijn",
+            "Thijs Vangeel",
+            "Aron Deneyer",
+            "Gil Van den Bossche",
             "Christophe M. Courtin",
-            "Katrien Swennen",
-            "Priscilla Verjans",
-            "Jan A. Delcour"
+            "Bert F. Sels"
         ]
     },
     {
@@ -3897,21 +3903,21 @@
         ]
     },
     {
-        "article": "Multistatic and Multiple Frequency Imaging Resolution Analysis-Application to GPS-Based Multistatic Radar",
-        "authors": [
-            "F. Daout",
-            "F. Schmitt",
-            "Guillaume Ginolhac",
-            "Philippe Fargette"
-        ]
-    },
-    {
         "article": "Clutter Subspace Estimation in Low Rank Heterogeneous Noise Context",
         "authors": [
             "Arnaud Breloy",
             "Guillaume Ginolhac",
             "Frédéric Pascal",
             "Philippe Forster"
+        ]
+    },
+    {
+        "article": "Multistatic and Multiple Frequency Imaging Resolution Analysis-Application to GPS-Based Multistatic Radar",
+        "authors": [
+            "F. Daout",
+            "F. Schmitt",
+            "Guillaume Ginolhac",
+            "Philippe Fargette"
         ]
     },
     {
@@ -3958,6 +3964,16 @@
             "Mohammed Nabil El Korso",
             "Arnaud Breloy",
             "Guillaume Ginolhac"
+        ]
+    },
+    {
+        "article": "Robust Detection for Mills Cross Sonar",
+        "authors": [
+            "Olivier Lerda",
+            "Ammar Mian",
+            "Guillaume Ginolhac",
+            "Jean‐Philippe Ovarlez",
+            "Didier Charlot"
         ]
     },
     {
@@ -4543,16 +4559,6 @@
             "Ammar Mian",
             "Florent Bouchard",
             "Frédéric Pascal"
-        ]
-    },
-    {
-        "article": "Robust Detection for Mills Cross Sonar",
-        "authors": [
-            "Olivier Lerda",
-            "Ammar Mian",
-            "Guillaume Ginolhac",
-            "Jean‐Philippe Ovarlez",
-            "Didier Charlot"
         ]
     },
     {

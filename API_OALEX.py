@@ -26,35 +26,39 @@ def getArticleInfo(work):
     return title, authors
 
 
-enseignants = chargerEnseignant()
-articles = []
+def chargerEnseignantOpenAlex():
+    try:
+        enseignants = chargerEnseignant()
+        articles = []
 
-for ens in enseignants:
-    name = ens["nom"]
-    print(f"Recherche OpenAlex : {name}")
-    author = trouverAuteur(name)
+        for ens in enseignants:
+            name = ens["nom"]
+            print(f"Recherche OpenAlex : {name}")
+            author = trouverAuteur(name)
 
-    if not author:
-        print(f"Aucun auteur trouvé pour {name}")
-        continue
+            if not author:
+                print(f"Aucun auteur trouvé pour {name}")
+                continue
 
-    works_url = author["works_api_url"]
-    works = getTravailAuteur(works_url)
+            works_url = author["works_api_url"]
+            works = getTravailAuteur(works_url)
 
-    for w in works:
-        title, authors = getArticleInfo(w)
-        if not title:
-            continue
+            for w in works:
+                title, authors = getArticleInfo(w)
+                if not title:
+                    continue
 
-        if not any(a["article"] == title for a in articles):
-            articles.append({
-                "article": title,
-                "authors": authors
-            })
+                if not any(a["article"] == title for a in articles):
+                    articles.append({
+                        "article": title,
+                        "authors": authors
+                    })
 
-    time.sleep(0.2)
+            time.sleep(0.2)
 
-with open("articlesCoAuteurs_OpenAlex.json", "w", encoding="utf-8") as f:
-    json.dump(articles, f, ensure_ascii=False, indent=4)
+        with open("articlesCoAuteurs_OpenAlex.json", "w", encoding="utf-8") as f:
+            json.dump(articles, f, ensure_ascii=False, indent=4)
+    except FileNotFoundError:
+        print("Error: Fichier 'enseignants.json' non trouvé.")
 
 
